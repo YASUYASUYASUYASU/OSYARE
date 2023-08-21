@@ -1,0 +1,110 @@
+[
+  {
+    "result": "ofc_skirt_school",
+    "type": "recipe",
+    "copy-from": "skirt",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_LEGS",
+    "using": [ [ "tailoring_cotton_patchwork", 7 ], [ "fastener_small", 1 ] ],
+    "byproducts": [ [ "scrap_cotton", 10 ], [ "cotton_patchwork", 2 ] ]
+  },
+  {
+    "result": "ofc_skirt_school_xl",
+    "type": "recipe",
+    "copy-from": "skirt",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_LEGS",
+    "using": [ [ "tailoring_cotton_patchwork", 7 ], [ "fastener_small", 2 ] ],
+    "byproducts": [ [ "scrap_cotton", 5 ], [ "cotton_patchwork", 4 ] ]
+  },
+  {
+    "result": "ofc_skirt_school_xs",
+    "type": "recipe",
+    "copy-from": "skirt",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_LEGS",
+    "using": [ [ "tailoring_cotton_patchwork", 4 ], [ "fastener_small", 1 ] ],
+    "byproducts": [ [ "scrap_cotton", 5 ], [ "cotton_patchwork", 1 ] ]
+  },
+  {
+    "result": "ofc_skirt_school_nano",
+    "type": "recipe",
+    "copy-from": "skirt",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_LEGS",
+    "using": [ [ "tailoring_cotton_patchwork", 7 ], [ "fastener_small", 1 ] ],
+    "byproducts": [ [ "scrap_cotton", 8 ], [ "cotton_patchwork", 2 ] ]
+  },
+  {
+    "result": "ofc_skirt_school_nano_xl",
+    "type": "recipe",
+    "copy-from": "skirt",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_LEGS",
+    "using": [ [ "tailoring_cotton_patchwork", 14 ], [ "fastener_small", 2 ] ],
+    "byproducts": [ [ "scrap_cotton", 16 ], [ "cotton_patchwork", 4 ] ]
+  },
+  {
+    "result": "ofc_skirt_school_nano_xs",
+    "type": "recipe",
+    "copy-from": "skirt",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_LEGS",
+    "using": [ [ "tailoring_cotton_patchwork", 4 ], [ "fastener_small", 1 ] ],
+    "byproducts": [ [ "scrap_cotton", 4 ], [ "cotton_patchwork", 1 ] ]
+  },
+  {
+    "result": "ofc_buruma",
+    "type": "recipe",
+    "copy-from": "skirt",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_LEGS",
+    "using": [ [ "tailoring_cotton_patchwork", 7 ] ],
+    "byproducts": [ [ "scrap_cotton", 10 ], [ "cotton_patchwork", 2 ] ]
+  },
+  {
+    "result": "ofc_buruma_xl",
+    "type": "recipe",
+    "copy-from": "skirt",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_LEGS",
+    "using": [ [ "tailoring_cotton_patchwork", 7 ] ],
+    "byproducts": [ [ "scrap_cotton", 5 ], [ "cotton_patchwork", 4 ] ]
+  },
+  {
+    "result": "ofc_buruma_xs",
+    "type": "recipe",
+    "copy-from": "skirt",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_LEGS",
+    "using": [ [ "tailoring_cotton_patchwork", 4 ] ],
+    "byproducts": [ [ "scrap_cotton", 5 ], [ "cotton_patchwork", 1 ] ]
+  },
+  {
+    "result": "ofc_overall",
+    "type": "recipe",
+    "copy-from": "skirt",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_LEGS",
+    "using": [ [ "tailoring_cotton_patchwork", 7 ], [ "fastener_small", 1 ] ],
+    "byproducts": [ [ "scrap_cotton", 10 ], [ "cotton_patchwork", 2 ] ]
+  },
+  {
+    "result": "ofc_overall_xl",
+    "type": "recipe",
+    "copy-from": "skirt",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_LEGS",
+    "using": [ [ "tailoring_cotton_patchwork", 14 ], [ "fastener_small", 2 ] ],
+    "byproducts": [ [ "scrap_cotton", 20 ], [ "cotton_patchwork", 4 ] ]
+  },
+  {
+    "result": "ofc_overall_xs",
+    "type": "recipe",
+    "copy-from": "skirt",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_LEGS",
+    "using": [ [ "tailoring_cotton_patchwork", 4 ], [ "fastener_small", 1 ] ],
+    "byproducts": [ [ "scrap_cotton", 5 ], [ "cotton_patchwork", 1 ] ]
+  }
+]

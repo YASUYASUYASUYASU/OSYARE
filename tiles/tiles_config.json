@@ -1,0 +1,458 @@
+[
+  {
+    "type": "mod_tileset",
+    "compatibility": [ "UNDEAD_PEOPLE_BASE", "MSX++DEAD_PEOPLE", "MSX++DEAD_PEOPLE+", "UNDEAD_PEOPLE", "Chibi_Ultica", "MshockXottoplus" ],
+    "tiles-new": [
+      {
+        "file": "tiles/image/socks_white.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_socks_white"         , "fg": 0, "rotates": false },
+          { "id": "overlay_worn_ofc_socks_white_xl"      , "fg": 0, "rotates": false },
+          { "id": "overlay_worn_ofc_socks_white_xs"      , "fg": 0, "rotates": false },
+          { "id": "overlay_worn_ofc_socks_ankle_white"   , "fg": 0, "rotates": false },
+          { "id": "overlay_worn_ofc_socks_ankle_white_xl", "fg": 0, "rotates": false },
+          { "id": "overlay_worn_ofc_socks_ankle_white_xl", "fg": 0, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/socks_red.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_socks_red"           , "fg": 1, "rotates": false },
+          { "id": "overlay_worn_ofc_socks_red_xl"        , "fg": 1, "rotates": false },
+          { "id": "overlay_worn_ofc_socks_red_xs"        , "fg": 1, "rotates": false },
+          { "id": "overlay_worn_ofc_socks_ankle_red"     , "fg": 1, "rotates": false },
+          { "id": "overlay_worn_ofc_socks_ankle_red_xl"  , "fg": 1, "rotates": false },
+          { "id": "overlay_worn_ofc_socks_ankle_red_xs"  , "fg": 1, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/socks_orange.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_socks_orange"          , "fg": 2, "rotates": false },
+          { "id": "overlay_worn_ofc_socks_orange_xl"       , "fg": 2, "rotates": false },
+          { "id": "overlay_worn_ofc_socks_orange_xs"       , "fg": 2, "rotates": false },
+          { "id": "overlay_worn_ofc_socks_ankle_orange"    , "fg": 2, "rotates": false },
+          { "id": "overlay_worn_ofc_socks_ankle_orange_xl" , "fg": 2, "rotates": false },
+          { "id": "overlay_worn_ofc_socks_ankle_orange_xs" , "fg": 2, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/socks_blue.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_socks_blue"          , "fg": 3, "rotates": false },
+          { "id": "overlay_worn_ofc_socks_blue_xl"       , "fg": 3, "rotates": false },
+          { "id": "overlay_worn_ofc_socks_blue_xs"       , "fg": 3, "rotates": false },
+          { "id": "overlay_worn_ofc_socks_ankle_blue"    , "fg": 3, "rotates": false },
+          { "id": "overlay_worn_ofc_socks_ankle_blue_xl" , "fg": 3, "rotates": false },
+          { "id": "overlay_worn_ofc_socks_ankle_blue_xs" , "fg": 3, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/knee_socks_white.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_kneesocks_white"     , "fg": 4, "rotates": false },
+          { "id": "overlay_worn_ofc_kneesocks_white_xl"  , "fg": 4, "rotates": false },
+          { "id": "overlay_worn_ofc_kneesocks_white_xs"  , "fg": 4, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/knee_socks_red.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_kneesocks_red"       , "fg": 5, "rotates": false },
+          { "id": "overlay_worn_ofc_kneesocks_red_xl"    , "fg": 5, "rotates": false },
+          { "id": "overlay_worn_ofc_kneesocks_red_xs"    , "fg": 5, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/knee_socks_orange.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_kneesocks_orange"    , "fg": 6, "rotates": false },
+          { "id": "overlay_worn_ofc_kneesocks_orange_xl" , "fg": 6, "rotates": false },
+          { "id": "overlay_worn_ofc_kneesocks_orange_xs" , "fg": 6, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/knee_socks_blue.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_kneesocks_blue"      , "fg": 7, "rotates": false },
+          { "id": "overlay_worn_ofc_kneesocks_blue_xl"   , "fg": 7, "rotates": false },
+          { "id": "overlay_worn_ofc_kneesocks_blue_xs"   , "fg": 7, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/sneakers_white.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_sneakers_white"      , "fg": 8, "rotates": false },
+          { "id": "overlay_worn_ofc_sneakers_white_xl"   , "fg": 8, "rotates": false },
+          { "id": "overlay_worn_ofc_sneakers_white_xs"   , "fg": 8, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/sneakers_blue.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_sneakers_blue"      , "fg": 9, "rotates": false },
+          { "id": "overlay_worn_ofc_sneakers_blue_xl"   , "fg": 9, "rotates": false },
+          { "id": "overlay_worn_ofc_sneakers_blue_xs"   , "fg": 9, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/sneakers_red.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_sneakers_red"       , "fg": 10, "rotates": false },
+          { "id": "overlay_worn_ofc_sneakers_red_xl"    , "fg": 10, "rotates": false },
+          { "id": "overlay_worn_ofc_sneakers_red_xs"    , "fg": 10, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/sneakers_orange.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_sneakers_orange"      , "fg": 11, "rotates": false },
+          { "id": "overlay_worn_ofc_sneakers_orange_xl"   , "fg": 11, "rotates": false },
+          { "id": "overlay_worn_ofc_sneakers_orange_xs"   , "fg": 11, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/amithights.png",
+        "sprite_height":40,
+        "sprite_width":32,
+        "sprite_offset_y":-8,
+        "tiles": [        
+          { "id": "overlay_worn_ofc_fishnet_tights"      , "fg": 12, "rotates": false },
+          { "id": "overlay_worn_ofc_fishnet_tights_xl"   , "fg": 12, "rotates": false },
+          { "id": "overlay_worn_ofc_fishnet_tights_xs"   , "fg": 12, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/nitto_white.png",
+        "tiles": [
+          { "id": "overlay_worn_ofc_hat_knit_white"      , "fg": 13, "rotates": false },
+          { "id": "overlay_worn_ofc_hat_knit_white_xl"   , "fg": 13, "rotates": false },
+          { "id": "overlay_worn_ofc_hat_knit_white_xs"   , "fg": 13, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/nitto_blue.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_hat_knit_blue"        , "fg": 14, "rotates": false },
+          { "id": "overlay_worn_ofc_hat_knit_blue_xl"     , "fg": 14, "rotates": false },
+          { "id": "overlay_worn_ofc_hat_knit_blue_xs"     , "fg": 14, "rotates": false },
+          { "id": "overlay_worn_ofc_hat_cotton_blue"      , "fg": 14, "rotates": false },
+          { "id": "overlay_worn_ofc_hat_cotton_blue_xl"   , "fg": 14, "rotates": false },
+          { "id": "overlay_worn_ofc_hat_cotton_blue_xs"   , "fg": 14, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/nitto_green.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_hat_knit_green"        , "fg": 15, "rotates": false },
+          { "id": "overlay_worn_ofc_hat_knit_green_xl"     , "fg": 15, "rotates": false },
+          { "id": "overlay_worn_ofc_hat_knit_green_xs"     , "fg": 15, "rotates": false },
+          { "id": "overlay_worn_ofc_hat_cotton_green"      , "fg": 15, "rotates": false },
+          { "id": "overlay_worn_ofc_hat_cotton_green_xl"   , "fg": 15, "rotates": false },
+          { "id": "overlay_worn_ofc_hat_cotton_green_xs"   , "fg": 15, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/nitto_red.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_hat_knit_red"        , "fg": 16, "rotates": false },
+          { "id": "overlay_worn_ofc_hat_knit_red_xl"     , "fg": 16, "rotates": false },
+          { "id": "overlay_worn_ofc_hat_knit_red_xs"     , "fg": 16, "rotates": false },
+          { "id": "overlay_worn_ofc_hat_cotton_red"      , "fg": 16, "rotates": false },
+          { "id": "overlay_worn_ofc_hat_cotton_red_xl"   , "fg": 16, "rotates": false },
+          { "id": "overlay_worn_ofc_hat_cotton_red_xs"   , "fg": 16, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/nitto_orange.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_hat_knit_orange"        , "fg": 17, "rotates": false },
+          { "id": "overlay_worn_ofc_hat_knit_orange_xl"     , "fg": 17, "rotates": false },
+          { "id": "overlay_worn_ofc_hat_knit_orange_xs"     , "fg": 17, "rotates": false },
+          { "id": "overlay_worn_ofc_hat_cotton_orange"      , "fg": 17, "rotates": false },
+          { "id": "overlay_worn_ofc_hat_cotton_orange_xl"   , "fg": 17, "rotates": false },
+          { "id": "overlay_worn_ofc_hat_cotton_orange_xs"   , "fg": 17, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/usamimi.png",
+        "sprite_height":40,
+        "sprite_width":32,
+        "sprite_offset_y":-8,
+        "tiles": [        
+          { "id": "ofc_bunny_head"                          , "fg": 18, "rotates": false },
+          { "id": "ofc_bunny_head_xl"                       , "fg": 18, "rotates": false },
+          { "id": "ofc_bunny_head_xs"                       , "fg": 18, "rotates": false },
+          { "id": "overlay_worn_ofc_bunny_head"             , "fg": 18, "rotates": false },
+          { "id": "overlay_worn_ofc_bunny_head_xl"          , "fg": 18, "rotates": false },
+          { "id": "overlay_worn_ofc_bunny_head_xs"          , "fg": 18, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/gakuseihuku_sita.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_skirt_school"          , "fg": 19, "rotates": false },
+          { "id": "overlay_worn_ofc_skirt_school_nano"     , "fg": 19, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/overall.png",
+        "tiles": [        
+          { "id": "ofc_overall"                             , "fg": 20, "rotates": false },
+          { "id": "overlay_worn_ofc_overall"                , "fg": 20, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/tshirt_white.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_shirt_white"            , "fg": 21, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/tshirt_red.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_shirt_red"            , "fg": 22, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/tshirt_orange.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_shirt_orange"            , "fg": 23, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/tshirt_blue.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_shirt_blue"            , "fg": 24, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/long_shirt_white.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_longshirt_white"       , "fg": 25, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/long_shirt_red.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_longshirt_red"       , "fg": 26, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/long_shirt_orange.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_longshirt_orange"       , "fg": 27, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/long_shirt_blue.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_longshirt_blue"       , "fg": 28, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/hoodie_white.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_hoodie_white"         , "fg": 29, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/hoodie_red.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_hoodie_red"           , "fg": 30, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/hoodie_orange.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_hoodie_orange"        , "fg": 31, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/hoodie_blue.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_hoodie_blue"          , "fg": 32, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/gakuseihuku_ue.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_longshirt_school"     , "fg": 33, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/leotard_armor.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_leotard_armor"         , "fg": 34, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/leotard_red.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_leotard_red"           , "fg": 35, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/leotard_black.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_ofc_leotard_black"   , "fg": 36, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/nurse_clothes.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_nurse_clothes"   , "fg": 37, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/cardigan.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_cardigan"   , "fg": 38, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/sun_dress_white.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_sundress_white"   , "fg": 39, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/sun_dress_red.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_sundress_red"   , "fg": 40, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/sun_dress_orange.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_sundress_orange"   , "fg": 41, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/sun_dress_blue.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_sundress_blue"   , "fg": 42, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/bunny_suit.png",
+        "sprite_height":40,
+        "sprite_width":32,
+        "sprite_offset_y":-8,
+        "tiles": [        
+          { "id": "overlay_worn_ofc_bunny_suits"   , "fg": 43, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/nurse_bousi.png",
+        "sprite_height":36,
+        "sprite_width":32,
+        "sprite_offset_y":-4,
+        "tiles": [        
+          { "id": "overlay_worn_ofc_hat_nurse"      , "fg": 44, "rotates": false },
+          { "id": "overlay_worn_ofc_hat_nurse_xl"   , "fg": 44, "rotates": false },
+          { "id": "overlay_worn_ofc_hat_nurse_xs"   , "fg": 44, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/taisouhuku.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_taisouhuku"   , "fg": 45, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/buruma.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_buruma"   , "fg": 46, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/a-ma-meido.png",
+        "sprite_height":36,
+        "sprite_width":32,
+        "sprite_offset_y":-4,
+        "tiles": [        
+          { "id": "overlay_worn_ofc_armored_maid_dress"   , "fg": 47, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/a-ma-meido_purimu.png",
+        "sprite_height":36,
+        "sprite_width":32,
+        "sprite_offset_y":-4,
+        "tiles": [        
+          { "id": "overlay_worn_ofc_armored_maid_hat"      , "fg": 48, "rotates": false },
+          { "id": "overlay_worn_ofc_armored_maid_hat_xl"   , "fg": 48, "rotates": false },
+          { "id": "overlay_worn_ofc_armored_maid_hat_xs"   , "fg": 48, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/senketu_meido_purimu.png",
+        "sprite_height":36,
+        "sprite_width":32,
+        "sprite_offset_y":-4,
+        "tiles": [        
+          { "id": "overlay_worn_ofc_armored_maid_hat_senketu"      , "fg": 49, "rotates": false },
+          { "id": "overlay_worn_ofc_armored_maid_hat_senketu_xl"   , "fg": 49, "rotates": false },
+          { "id": "overlay_worn_ofc_armored_maid_hat_senketu_xs"   , "fg": 49, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/senketu_meido.png",
+        "sprite_height":36,
+        "sprite_width":32,
+        "sprite_offset_y":-4,
+        "tiles": [        
+          { "id": "overlay_worn_ofc_armored_maid_dress_blood"   , "fg": 50, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/sister_bousi.png",
+        "sprite_height":36,
+        "sprite_width":32,
+        "sprite_offset_y":-4,
+        "tiles": [        
+          { "id": "overlay_worn_ofc_hat_sister"   , "fg": 51, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/sister_huku.png",
+        "sprite_height":36,
+        "sprite_width":32,
+        "sprite_offset_y":-4,
+        "tiles": [        
+          { "id": "overlay_worn_ofc_sister_tunic"   , "fg": 52, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/gun_bousi.png",
+        "sprite_height":36,
+        "sprite_width":32,
+        "sprite_offset_y":-4,
+        "tiles": [        
+          { "id": "overlay_worn_ofc_hat_army"   , "fg": 53, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/gun_huku_kuro.png",
+        "sprite_height":36,
+        "sprite_width":32,
+        "sprite_offset_y":-4,
+        "tiles": [        
+          { "id": "overlay_worn_ofc_army_dress_kuro"   , "fg": 54, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/gun_huku_aka.png",
+        "sprite_height":36,
+        "sprite_width":32,
+        "sprite_offset_y":-4,
+        "tiles": [        
+          { "id": "overlay_worn_ofc_army_dress_aka"   , "fg": 55, "rotates": false }
+        ]
+      }
+    
+      
+    ]
+  }
+]

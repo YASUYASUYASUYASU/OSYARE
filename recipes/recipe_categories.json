@@ -1,0 +1,18 @@
+[
+  {
+    "type": "recipe_category",
+    "id": "CC_おしゃれ服装委員会",
+    "recipe_subcategories": [
+      "CSC_ALL",
+      "CSC_おしゃれ服装委員会_STORAGE",
+      "CSC_おしゃれ服装委員会_SUIT",
+      "CSC_おしゃれ服装委員会_HEAD",
+      "CSC_おしゃれ服装委員会_TORSO",
+      "CSC_おしゃれ服装委員会_ARMS",
+      "CSC_おしゃれ服装委員会_HANDS",
+      "CSC_おしゃれ服装委員会_LEGS",
+      "CSC_おしゃれ服装委員会_FEET",
+      "CSC_おしゃれ服装委員会_OTHER"
+    ]
+  }
+]

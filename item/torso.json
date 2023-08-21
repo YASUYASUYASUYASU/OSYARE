@@ -1,0 +1,872 @@
+[
+  {
+    "id": "ofc_shirt_white",
+    "copy-from": "tshirt",
+    "type": "ARMOR",
+    "name": { "str": "Tシャツ(白)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_shirt_red",
+    "copy-from": "ofc_shirt_white",
+    "type": "ARMOR",
+    "name": { "str": "Tシャツ(赤)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_shirt_orange",
+    "copy-from": "ofc_shirt_white",
+    "type": "ARMOR",
+    "name": { "str": "Tシャツ(橙)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_shirt_blue",
+    "copy-from": "ofc_shirt_white",
+    "type": "ARMOR",
+    "name": { "str": "Tシャツ(青)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_shirt_white_xl",
+    "copy-from": "ofc_shirt_white",
+    "type": "ARMOR",
+    "name": { "str": "XL_Tシャツ(白)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_shirt_red_xl",
+    "copy-from": "ofc_shirt_red",
+    "type": "ARMOR",
+    "name": { "str": "XL_Tシャツ(赤)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_shirt_orange_xl",
+    "copy-from": "ofc_shirt_orange",
+    "type": "ARMOR",
+    "name": { "str": "XL_Tシャツ(橙)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_shirt_blue_xl",
+    "copy-from": "ofc_shirt_blue",
+    "type": "ARMOR",
+    "name": { "str": "XL_Tシャツ(青)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },  {
+    "id": "ofc_shirt_white_xs",
+    "copy-from": "ofc_shirt_white",
+    "type": "ARMOR",
+    "name": { "str": "XS_Tシャツ(白)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_shirt_red_xs",
+    "copy-from": "ofc_shirt_red",
+    "type": "ARMOR",
+    "name": { "str": "XS_Tシャツ(赤)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_shirt_orange_xs",
+    "copy-from": "ofc_shirt_orange",
+    "type": "ARMOR",
+    "name": { "str": "XS_Tシャツ(橙)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_shirt_blue_xs",
+    "copy-from": "ofc_shirt_blue",
+    "type": "ARMOR",
+    "name": { "str": "XS_Tシャツ(青)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_longshirt_white",
+    "copy-from": "longshirt",
+    "type": "ARMOR",
+    "name": { "str": "長袖シャツ(白)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_longshirt_red",
+    "copy-from": "ofc_longshirt_white",
+    "type": "ARMOR",
+    "name": { "str": "長袖Tシャツ(赤)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_longshirt_orange",
+    "copy-from": "ofc_longshirt_white",
+    "type": "ARMOR",
+    "name": { "str": "長袖Tシャツ(橙)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_longshirt_blue",
+    "copy-from": "ofc_longshirt_white",
+    "type": "ARMOR",
+    "name": { "str": "長袖Tシャツ(青)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_longshirt_white_xl",
+    "copy-from": "ofc_longshirt_white",
+    "type": "ARMOR",
+    "name": { "str": "XL長袖シャツ(白)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_longshirt_red_xl",
+    "copy-from": "ofc_longshirt_red",
+    "type": "ARMOR",
+    "name": { "str": "XL長袖Tシャツ(赤)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_longshirt_orange_xl",
+    "copy-from": "ofc_longshirt_orange",
+    "type": "ARMOR",
+    "name": { "str": "XL長袖Tシャツ(橙)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_longshirt_blue_xl",
+    "copy-from": "ofc_longshirt_blue",
+    "type": "ARMOR",
+    "name": { "str": "XL長袖Tシャツ(青)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_longshirt_white_xs",
+    "copy-from": "ofc_longshirt_white",
+    "type": "ARMOR",
+    "name": { "str": "XS長袖シャツ(白)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_longshirt_red_xs",
+    "copy-from": "ofc_longshirt_red",
+    "type": "ARMOR",
+    "name": { "str": "XS長袖Tシャツ(赤)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_longshirt_orange_xs",
+    "copy-from": "ofc_longshirt_orange",
+    "type": "ARMOR",
+    "name": { "str": "XS長袖Tシャツ(橙)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_longshirt_blue_xs",
+    "copy-from": "ofc_longshirt_blue",
+    "type": "ARMOR",
+    "name": { "str": "XS長袖Tシャツ(青)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_hoodie_white",
+    "copy-from": "hoodie",
+    "type": "ARMOR",
+    "name": { "str": "パーカー(白)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_hoodie_white_xl",
+    "copy-from": "ofc_hoodie_white",
+    "type": "ARMOR",
+    "name": { "str": "XLパーカー(白)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_hoodie_white_xs",
+    "copy-from": "ofc_hoodie_white",
+    "type": "ARMOR",
+    "name": { "str": "XSパーカー(白)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_hoodie_red",
+    "copy-from": "ofc_hoodie_white",
+    "type": "ARMOR",
+    "name": { "str": "パーカー(赤)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_hoodie_red_xl",
+    "copy-from": "ofc_hoodie_red",
+    "type": "ARMOR",
+    "name": { "str": "XLパーカー(赤)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_hoodie_red_xs",
+    "copy-from": "ofc_hoodie_red",
+    "type": "ARMOR",
+    "name": { "str": "XSパーカー(赤)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_hoodie_orange",
+    "copy-from": "ofc_hoodie_white",
+    "type": "ARMOR",
+    "name": { "str": "パーカー(橙)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_hoodie_orange_xl",
+    "copy-from": "ofc_hoodie_orange",
+    "type": "ARMOR",
+    "name": { "str": "XLパーカー(橙)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_hoodie_orange_xs",
+    "copy-from": "ofc_hoodie_orange",
+    "type": "ARMOR",
+    "name": { "str": "XSパーカー(橙)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_hoodie_blue",
+    "copy-from": "ofc_hoodie_white",
+    "type": "ARMOR",
+    "name": { "str": "パーカー(青)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_hoodie_blue_xl",
+    "copy-from": "ofc_hoodie_blue",
+    "type": "ARMOR",
+    "name": { "str": "XLパーカー(青)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_hoodie_blue_xs",
+    "copy-from": "ofc_hoodie_blue",
+    "type": "ARMOR",
+    "name": { "str": "XSパーカー(青)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_longshirt_school",
+    "copy-from": "longshirt",
+    "type": "ARMOR",
+    "name": { "str": "長袖Tシャツ(学生服)[OFC]" },
+    "description": "シンプルな学生服用の長袖シャツです。シンプルなので、どんな服装にも合います。",
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_longshirt_school_xl",
+    "copy-from": "ofc_longshirt_school",
+    "type": "ARMOR",
+    "name": { "str": "XL長袖Tシャツ(学生服)[OFC]" },
+    "description": "シンプルな学生服用の長袖シャツです。シンプルなので、どんな服装にも合います。",
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_longshirt_school_xs",
+    "copy-from": "ofc_longshirt_school",
+    "type": "ARMOR",
+    "name": { "str": "XS長袖Tシャツ(学生服)[OFC]" },
+    "description": "シンプルな学生服用の長袖シャツです。シンプルなので、どんな服装にも合います。",
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_armored_maid_dress",
+    "type": "ARMOR",
+    "copy-from": "maid_dress",
+    "name": { "str_sp": "アーマードメイドドレス[OFC]" },
+    "description": "戦いやすく・かわいらしくをモットーに世紀末用に調整されたメイド服です。オシャレさと実用性を兼ねています。",
+    "weight": "4250 g",
+    "volume": "1250 ml",
+    "price": 10000,
+    "price_postapoc": 50,
+    "material": [ "cotton","leather","steel" ],
+    "armor": [
+      { "covers": [ "torso" ], "coverage": 100, "encumbrance": [ 5, 7 ] },
+      { "covers": [ "leg_l", "leg_r" ], "coverage": 95, "encumbrance": [ 5, 5 ] },
+      { "covers": [ "arm_l", "arm_r" ], "coverage": 95, "encumbrance": [ 5, 5 ] }
+    ],
+    "warmth": 10,
+    "material_thickness": 3,
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_armored_maid_dress_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_armored_maid_dress",
+    "name": { "str_sp": "XLアーマードメイドドレス[OFC]" },
+    "description": "戦いやすく・かわいらしくをモットーに世紀末用に調整されたメイド服です。オシャレさと実用性を兼ねています。",
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_armored_maid_dress_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_armored_maid_dress",
+    "name": { "str_sp": "XSアーマードメイドドレス[OFC]" },
+    "description": "戦いやすく・かわいらしくをモットーに世紀末用に調整されたメイド服です。オシャレさと実用性を兼ねています。",
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_armored_maid_dress_blood",
+    "type": "ARMOR",
+    "copy-from": "maid_dress",
+    "name": { "str_sp": "鮮血のメイドドレス[OFC]" },
+    "description": "戦いやすく・かわいらしくをモットーに世紀末用に調整されたメイド服です。こちらは機動力を重視したメイド服となります。",
+    "weight": "4250 g",
+    "volume": "1250 ml",
+    "price": 10000,
+    "price_postapoc": 50,
+    "material": [ "cotton","leather" ],
+    "armor": [
+      { "covers": [ "torso" ], "coverage": 100, "encumbrance": [ 2, 2 ] },
+      { "covers": [ "leg_l", "leg_r" ], "coverage": 95, "encumbrance": [ 2, 2 ] },
+      { "covers": [ "arm_l", "arm_r" ], "coverage": 95, "encumbrance": [ 2, 2 ] }
+    ],
+    "warmth": 10,
+    "material_thickness": 5,
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_armored_maid_dress_blood_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_armored_maid_dress_blood",
+    "name": { "str_sp": "XL鮮血のメイドドレス[OFC]" },
+    "description": "戦いやすく・かわいらしくをモットーに世紀末用に調整されたメイド服です。こちらは機動力を重視したメイド服となります。",
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_armored_maid_dress_blood_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_armored_maid_dress_blood",
+    "name": { "str_sp": "XS鮮血のメイドドレス[OFC]" },
+    "description": "戦いやすく・かわいらしくをモットーに世紀末用に調整されたメイド服です。こちらは機動力を重視したメイド服となります。",
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_leotard_red",
+    "type": "ARMOR",
+    "copy-from": "leotard",
+    "name": { "str": "レオタード(赤)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_leotard_red_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_leotard_red",
+    "name": { "str": "XLレオタード(赤)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_leotard_red_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_leotard_red",
+    "name": { "str": "XSレオタード(赤)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [  "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_leotard_black",
+    "type": "ARMOR",
+    "copy-from": "leotard",
+    "name": { "str": "レオタード(黒)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_leotard_black_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_leotard_black",
+    "name": { "str": "XLレオタード(黒)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_leotard_black_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_leotard_black",
+    "name": { "str": "XSレオタード(黒)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_leotard_armor",
+    "type": "ARMOR",
+    "copy-from": "leotard",
+    "name": { "str": "レオタードーアーマー[OFC]" },
+    "description": "なぜレオタードに装甲を張り付けてしまったのでしょう?しかし見た目以上に機能的で動きやすいです。",
+    "material": [ "lycra","leather","steel" ],
+    "material_thickness": 3,
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_leotard_armor_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_leotard_armor",
+    "name": { "str": "XLレオタードーアーマー[OFC]" },
+    "description": "なぜレオタードに装甲を張り付けてしまったのでしょう?しかし見た目以上に機能的で動きやすいです。",
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_leotard_armor_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_leotard_armor",
+    "name": { "str": "XSレオタードーアーマー[OFC]" },
+    "description": "なぜレオタードに装甲を張り付けてしまったのでしょう?しかし見た目以上に機能的で動きやすいです。",
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_nurse_clothes",
+    "type": "ARMOR",
+    "copy-from": "sundress",
+    "name": { "str": "ナース服[OFC]", "str_pl": "ナース服[OFC]" },
+    "description": "看護師が着る服です、なぜかちょっと露出が多いような…？",
+    "armor": [
+      { "coverage": 65, "covers": [ "torso" ] },
+      {
+        "covers": [ "leg_l", "leg_r" ],
+        "specifically_covers": [ "leg_knee_l", "leg_knee_r", "leg_upper_l", "leg_upper_r", "leg_hip_l", "leg_hip_r" ],
+        "coverage": 30
+      }
+    ],
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_nurse_clothes_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_nurse_clothes",
+    "name": { "str": "XLナース服[OFC]", "str_pl": "XLナース服[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_nurse_clothes_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_nurse_clothes",
+    "name": { "str": "XSナース服[OFC]", "str_pl": "XSナース服[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_cardigan",
+    "type": "ARMOR",
+    "copy-from": "sweater",
+    "name": { "str": "カーディガン(学生服)[OFC]" },
+    "description": "学生服用のカーディガンです。ゆったりと温かめ、そしてかわいいです",
+    "material": [ "wool" ],
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_cardigan_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_cardigan",
+    "name": { "str": "XLカーディガン(学生服)[OFC]" },
+    "description": "学生服用のカーディガンです。ゆったりと温かめ、そしてかわいいです",
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_cardigan_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_cardigan",
+    "name": { "str": "XSカーディガン(学生服)[OFC]" },
+    "description": "学生服用のカーディガンです。ゆったりと温かめ、そしてかわいいです",
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_air_conditioned",
+    "type": "TOOL_ARMOR",
+    "copy-from": "jacket_light",
+    "name": { "str": "空調服[OFC]" },
+    "description": "猛暑の作業にも耐えられるよう開発されたファン付きの服です。電源を入れると気化熱の原理を利用して多少の暑さに耐えられるようになります。",
+    "extend": { "flags": [ "FANCY" ] },
+    "warmth": 10,
+    "material_thickness": 0.5,    
+    "charges_per_use": 1,
+    "ammo": "battery",
+    "use_action": {
+      "target": "ofc_air_conditioned_on",
+      "msg": "空調服の電源を入れました",
+      "active": true,
+      "need_charges": 1,
+      "need_charges_msg": "The fan seems to lack batteries.",
+      "menu_text": "Trun on",
+      "type": "transform"
+    },
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "rigid": true,
+        "flag_restriction": [ "BATTERY_LIGHT", "BATTERY_ULTRA_LIGHT" ],
+        "default_magazine": "light_battery_cell"
+      }
+    ]
+  },
+  {
+    "id": "ofc_air_conditioned_on",
+    "type": "TOOL_ARMOR",
+    "copy-from": "ofc_air_conditioned",
+    "name": { "str": "空調服[OFC](オン)" },
+    "description": "猛暑の作業にも耐えられるよう開発されたファン付きの服です。現在電源が入っています。",
+    "flags": [ "ALLOWS_REMOTE_USE" ],
+    "revert_to": "ofc_air_conditioned",
+    "use_action": {
+      "target": "ofc_air_conditioned",
+      "msg": "空調服の電源を落としました",
+      "menu_text": "Turn off",
+      "type": "transform"
+    },
+    "relic_data": {
+      "passive_effects": [
+        {
+          "has": "WORN",
+          "condition": "ACTIVE",
+          "values": [ { "value": "CLIMATE_CONTROL_CHILL", "add": 15 } ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "ofc_air_conditioned_xl",
+    "type": "TOOL_ARMOR",
+    "copy-from": "ofc_air_conditioned",
+    "name": { "str": "XL空調服[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] },
+    "use_action": {
+      "target": "ofc_air_conditioned_on_xl",
+      "msg": "空調服の電源を入れました",
+      "active": true,
+      "need_charges": 1,
+      "need_charges_msg": "The fan seems to lack batteries.",
+      "menu_text": "Trun on",
+      "type": "transform"
+    }
+  },
+  {
+    "id": "ofc_air_conditioned_on_xl",
+    "type": "TOOL_ARMOR",
+    "copy-from": "ofc_air_conditioned_on",
+    "name": { "str": "XL空調服[OFC](オン)" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] },
+    "revert_to": "ofc_air_conditioned",
+    "use_action": {
+      "target": "ofc_air_conditioned_xl",
+      "msg": "空調服の電源を落としました",
+      "menu_text": "Turn off",
+      "type": "transform"
+    },
+    "relic_data": {
+      "passive_effects": [
+        {
+          "has": "WORN",
+          "condition": "ACTIVE",
+          "values": [ { "value": "CLIMATE_CONTROL_CHILL", "add": 15 } ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "ofc_air_conditioned_xs",
+    "type": "TOOL_ARMOR",
+    "copy-from": "ofc_air_conditioned",
+    "name": { "str": "XS空調服[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] },
+    "use_action": {
+      "target": "ofc_air_conditioned_on_xs",
+      "msg": "空調服の電源を入れました",
+      "active": true,
+      "need_charges": 1,
+      "need_charges_msg": "The fan seems to lack batteries.",
+      "menu_text": "Trun on",
+      "type": "transform"
+    }
+  },
+  {
+    "id": "ofc_air_conditioned_on_xs",
+    "type": "TOOL_ARMOR",
+    "copy-from": "ofc_air_conditioned_on",
+    "name": { "str": "XS空調服[OFC](オン)" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] },
+    "revert_to": "ofc_air_conditioned",
+    "use_action": {
+      "target": "ofc_air_conditioned_xs",
+      "msg": "空調服の電源を落としました",
+      "menu_text": "Turn off",
+      "type": "transform"
+    },
+    "relic_data": {
+      "passive_effects": [
+        {
+          "has": "WORN",
+          "condition": "ACTIVE",
+          "values": [ { "value": "CLIMATE_CONTROL_CHILL", "add": 15 } ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "ofc_sundress_white",
+    "type": "ARMOR",
+    "name": { "str": "サンドレス(白)[OFC]", "str_pl": "サンドレス(白)[OFC]" },
+    "copy-from": "sundress"
+  },
+  {
+    "id": "ofc_sundress_white_xl",
+    "type": "ARMOR",
+    "name": { "str": "XLサンドレス(白)[OFC]", "str_pl": "XLサンドレス(白)[OFC]" },
+    "copy-from": "ofc_sundress_white",
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_sundress_white_xs",
+    "type": "ARMOR",
+    "name": { "str": "XSサンドレス(白)[OFC]", "str_pl": "XSサンドレス(白)[OFC]" },
+    "copy-from": "ofc_sundress_white",
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_sundress_red",
+    "type": "ARMOR",
+    "name": { "str": "サンドレス(赤)[OFC]", "str_pl": "サンドレス(赤)[OFC]" },
+    "copy-from": "sundress"
+  },
+  {
+    "id": "ofc_sundress_red_xl",
+    "type": "ARMOR",
+    "name": { "str": "XLサンドレス(赤)[OFC]", "str_pl": "XLサンドレス(赤)[OFC]" },
+    "copy-from": "ofc_sundress_red",
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [  "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_sundress_red_xs",
+    "type": "ARMOR",
+    "name": { "str": "XSサンドレス(赤)[OFC]", "str_pl": "XSサンドレス(赤)[OFC]" },
+    "copy-from": "ofc_sundress_red",
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_sundress_orange",
+    "type": "ARMOR",
+    "name": { "str": "サンドレス(橙)[OFC]", "str_pl": "サンドレス(橙)[OFC]" },
+    "copy-from": "sundress"
+  },
+  {
+    "id": "ofc_sundress_orange_xl",
+    "type": "ARMOR",
+    "name": { "str": "XLサンドレス(橙)[OFC]", "str_pl": "XLサンドレス(橙)[OFC]" },
+    "copy-from": "ofc_sundress_orange",
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_sundress_orange_xs",
+    "type": "ARMOR",
+    "name": { "str": "XSサンドレス(橙)[OFC]", "str_pl": "XSサンドレス(橙)[OFC]" },
+    "copy-from": "ofc_sundress_orange",
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_sundress_blue",
+    "type": "ARMOR",
+    "name": { "str": "サンドレス(青)[OFC]", "str_pl": "サンドレス(青)[OFC]" },
+    "copy-from": "sundress"
+  },
+  {
+    "id": "ofc_sundress_blue_xl",
+    "type": "ARMOR",
+    "name": { "str": "XLサンドレス(青)[OFC]", "str_pl": "XLサンドレス(青)[OFC]" },
+    "copy-from": "ofc_sundress_blue",
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_sundress_blue_xs",
+    "type": "ARMOR",
+    "name": { "str": "XSサンドレス(青)[OFC]", "str_pl": "XSサンドレス(青)[OFC]" },
+    "copy-from": "ofc_sundress_blue",
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_bunny_suits",
+    "type": "ARMOR",
+    "copy-from": "leotard",
+    "name": { "str": "バニースーツ(黒)[OFC]" },
+    "description": "ウサギをモチーフにした肩出しボディスーツです。えっちです。",
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_bunny_suits_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_bunny_suits",
+    "name": { "str": "XLバニースーツ(黒)[OFC]" },
+    "description": "ウサギをモチーフにした肩出しボディスーツです。えっちです。",
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_bunny_suits_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_bunny_suits",
+    "name": { "str": "XSバニースーツ(黒)[OFC]" },
+    "description": "ウサギをモチーフにした肩出しボディスーツです。えっちです。",
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_taisouhuku",
+    "copy-from": "tshirt",
+    "type": "ARMOR",
+    "name": { "str": "体操服[OFC]" },
+    "description": "体操服です",
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_taisouhuku_xl",
+    "copy-from": "ofc_taisouhuku",
+    "type": "ARMOR",
+    "name": { "str": "XL体操服[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_taisouhuku_xs",
+    "copy-from": "ofc_taisouhuku",
+    "type": "ARMOR",
+    "name": { "str": "XS体操服[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [  "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_sister_tunic",
+    "type": "ARMOR",
+    "name": { "str": "修道服[OFC]", "str_pl": "修道服[OFC]" },
+    "description": "スカプラリオとはラテン語のscapulae（肩）から名づけられたキリスト者の肩からぶら下げる衣装のことを指します。スカプラリオには2種類あり、修道士や修道女が着用する修道用と、信仰者用があります。ただ、この衣装は…ちょっとセクシーすぎますね？",
+    "copy-from": "sundress",
+    "material_thickness": 1,
+    "armor": [
+      { "coverage": 100, "covers": [ "torso", "arm_l", "arm_r" ] },
+      {
+        "covers": [ "leg_l", "leg_r" ],
+        "specifically_covers": [ "leg_knee_l", "leg_knee_r", "leg_upper_l", "leg_upper_r", "leg_hip_l", "leg_hip_r" ],
+        "coverage": 100
+      }
+    ]
+  },
+  {
+    "id": "ofc_sister_tunic_xl",
+    "type": "ARMOR",
+    "name": { "str": "XL修道服[OFC]", "str_pl": "XL修道服[OFC]" },
+    "copy-from": "ofc_sundress_white",
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_sister_tunic_xs",
+    "type": "ARMOR",
+    "name": { "str": "XS修道服[OFC]", "str_pl": "XS修道服[OFC]" },
+    "copy-from": "ofc_sundress_white",
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_army_dress_kuro",
+    "type": "ARMOR",
+    "name": { "str": "軍服(ドレス:黒)[OFC]", "str_pl": "軍服(ドレス:黒)[OFC]" },
+    "copy-from": "sundress",
+    "description": "軍服を模したセクシー且つかっこよさを兼ね備えたドレスです。",
+    "material": [ "nylon" ],
+    "material_thickness": 0.5,
+    "armor": [
+      { "coverage": 100, "covers": [ "torso", "arm_l", "arm_r" ] },
+      {
+        "covers": [ "leg_l", "leg_r" ],
+        "specifically_covers": [ "leg_knee_l", "leg_knee_r", "leg_upper_l", "leg_upper_r", "leg_hip_l", "leg_hip_r" ],
+        "coverage": 100
+      }
+    ]
+  },
+  {
+    "id": "ofc_army_dress_kuro_xl",
+    "type": "ARMOR",
+    "name": { "str": "XL軍服(ドレス:黒)[OFC]", "str_pl": "XL軍服(ドレス:黒)[OFC]" },
+    "copy-from": "ofc_army_dress_kuro",
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_army_dress_kuro_xs",
+    "type": "ARMOR",
+    "name": { "str": "XS軍服(ドレス:黒)[OFC]", "str_pl": "XS軍服(ドレス:黒)[OFC]" },
+    "copy-from": "ofc_army_dress_kuro",
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_army_dress_aka",
+    "type": "ARMOR",
+    "name": { "str": "軍服(ドレス:赤)[OFC]", "str_pl": "軍服(ドレス:赤)[OFC]" },
+    "copy-from": "ofc_army_dress_kuro"
+  },
+  {
+    "id": "ofc_army_dress_aka_xl",
+    "type": "ARMOR",
+    "name": { "str": "XL軍服(ドレス:赤)[OFC]", "str_pl": "XL軍服(ドレス:赤)[OFC]" },
+    "copy-from": "ofc_army_dress_aka",
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_army_dress_aka_xs",
+    "type": "ARMOR",
+    "name": { "str": "XS軍服(ドレス:赤)[OFC]", "str_pl": "XS軍服(ドレス:赤)[OFC]" },
+    "copy-from": "ofc_army_dress_aka",
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  }
+]

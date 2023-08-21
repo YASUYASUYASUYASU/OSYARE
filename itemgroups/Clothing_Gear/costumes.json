@@ -1,0 +1,23 @@
+[
+  {
+    "//1": "コスチュームに軍服と帽子を追加",
+    "type": "item_group",
+    "id": "costume_dresses",
+    "//": "dresses for costumes, cosplay and costume parties",
+    "subtype": "distribution",
+    "copy-from": "costume_dresses",
+    "extend": {
+      "items": [
+        { "item": "ofc_hat_army"          , "prob": 20 },
+        { "item": "ofc_hat_army_xl"       , "prob": 20 },
+        { "item": "ofc_hat_army_xs"       , "prob": 20 },
+        { "item": "ofc_army_dress_kuro"   , "prob": 20 },
+        { "item": "ofc_army_dress_kuro_xl", "prob": 20 },
+        { "item": "ofc_army_dress_kuro_xs", "prob": 20 },
+        { "item": "ofc_army_dress_aka"    , "prob": 20 },
+        { "item": "ofc_army_dress_aka_xl" , "prob": 20 },
+        { "item": "ofc_army_dress_aka_xs" , "prob": 20 }
+      ]
+    }
+  }
+]

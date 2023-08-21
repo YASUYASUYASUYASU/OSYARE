@@ -1,0 +1,147 @@
+[
+  {
+    "id": "ofc_backpack",
+    "type": "ARMOR",
+    "copy-from": "backpack",
+    "name": { "str": "バックパック(ブランド)[OFC]" },
+    "warmth": 5,
+    "material_thickness": 3,
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_backpack_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_backpack",
+    "name": { "str": "XLバックパック(ブランド)[OFC]" },
+    "proportional": { "weight": 1.125,  "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_backpack_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_backpack",
+    "name": { "str": "XSバックパック(ブランド)[OFC]" },
+    "proportional": { "weight": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_backpack_leather",
+    "type": "ARMOR",
+    "copy-from": "backpack_leather",
+    "name": { "str": "バックパック(革)(ブランド)[OFC]" },
+    "warmth": 5,
+    "material_thickness": 3,
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_backpack_leather_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_backpack_leather",
+    "name": { "str": "XLバックパック(革)(ブランド)[OFC]" },
+    "proportional": { "weight": 1.125, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_backpack_leather_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_backpack_leather",
+    "name": { "str": "XSバックパック(革)(ブランド)[OFC]" },
+    "proportional": { "weight": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_daypack",
+    "type": "ARMOR",
+    "copy-from": "daypack",
+    "name": { "str": "デイパック(ブランド)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_daypack_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_daypack",
+    "name": { "str": "XLデイパック(ブランド)[OFC]" },
+    "proportional": { "weight": 1.125, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_daypack_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_daypack",
+    "name": { "str": "XSデイパック(ブランド)[OFC]" },
+    "proportional": { "weight": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_duffelbag",
+    "type": "ARMOR",
+    "copy-from": "duffelbag",
+    "name": { "str": "ダッフルバッグ(ブランド)[OFC]" },
+    "warmth": 5,
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_duffelbag_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_duffelbag",
+    "name": { "str": "XLダッフルバッグ(ブランド)[OFC]" },
+    "proportional": { "weight": 1.125, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_duffelbag_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_duffelbag",
+    "name": { "str": "XSダッフルバッグ(ブランド)[OFC]" },
+    "proportional": { "weight": 0.75, "price": 0.5 },
+    "warmth": 5,
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_mbag",
+    "type": "ARMOR",
+    "copy-from": "mbag",
+    "name": { "str": "メッセンジャーバッグ(ブランド)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_mbag_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_mbag",
+    "name": { "str": "XLメッセンジャーバッグ(ブランド)[OFC]" },
+    "proportional": { "weight": 1.125, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_mbag_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_mbag",
+    "name": { "str": "XSメッセンジャーバッグ(ブランド)[OFC]" },
+    "proportional": { "weight": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_travelpack",
+    "type": "ARMOR",
+    "copy-from": "travelpack",
+    "name": { "str": "トラベルバッグ(ブランド)[OFC]" },
+    "warmth": 6,
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_travelpack_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_travelpack",
+    "name": { "str": "XLトラベルバッグ(ブランド)[OFC]" },
+    "warmth": 6,
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_travelpack_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_travelpack",
+    "name": { "str": "XSトラベルバッグ(ブランド)[OFC]" },
+    "warmth": 6,
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  }
+]

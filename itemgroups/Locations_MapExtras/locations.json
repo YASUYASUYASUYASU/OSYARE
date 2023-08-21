@@ -1,0 +1,19 @@
+[
+  {
+    "//1": "教会のアイテムグループに修道服とウィンプルを追加",
+    "type": "item_group",
+    "id": "church",
+    "copy-from": "church",
+    "subtype": "distribution",
+    "extend": {
+      "items": [
+        { "item": "ofc_hat_sister", "prob": 20  },
+        { "item": "ofc_hat_sister_xl", "prob": 20 },
+        { "item": "ofc_hat_sister_xs", "prob": 20 },
+        { "item": "ofc_sister_tunic", "prob": 20  },
+        { "item": "ofc_sister_tunic_xl", "prob": 20 },
+        { "item": "ofc_sister_tunic_xs", "prob": 20 }
+      ]
+    }
+  }
+]

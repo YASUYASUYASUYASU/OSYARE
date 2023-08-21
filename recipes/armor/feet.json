@@ -1,0 +1,533 @@
+[
+  {
+    "result": "ofc_socks_white",
+    "type": "recipe",
+    "copy-from": "socks",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton_patchwork", 1 ] ],
+    "byproducts": [ [ "scrap_cotton", 3 ] ]
+  },
+  {
+    "result": "ofc_socks_white_xl",
+    "type": "recipe",
+    "copy-from": "socks",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton_patchwork", 2 ] ],
+    "byproducts": [ [ "scrap_cotton", 6 ] ]
+  },
+  {
+    "result": "ofc_socks_white_xs",
+    "type": "recipe",
+    "copy-from": "socks",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton_patchwork", 1 ] ],
+    "byproducts": [ [ "scrap_cotton", 2 ] ]
+  },
+  {
+    "result": "ofc_socks_red",
+    "type": "recipe",
+    "copy-from": "socks",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton_patchwork", 1 ] ],
+    "byproducts": [ [ "scrap_cotton", 3 ] ]
+  },
+  {
+    "result": "ofc_socks_red_xl",
+    "type": "recipe",
+    "copy-from": "socks",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton_patchwork", 2 ] ],
+    "byproducts": [ [ "scrap_cotton", 6 ] ]
+  },
+  {
+    "result": "ofc_socks_red_xs",
+    "type": "recipe",
+    "copy-from": "socks",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton_patchwork", 1 ] ],
+    "byproducts": [ [ "scrap_cotton", 2 ] ]
+  },
+  {
+    "result": "ofc_socks_orange",
+    "type": "recipe",
+    "copy-from": "socks",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton_patchwork", 1 ] ],
+    "byproducts": [ [ "scrap_cotton", 3 ] ]
+  },
+  {
+    "result": "ofc_socks_orange_xl",
+    "type": "recipe",
+    "copy-from": "socks",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton_patchwork", 2 ] ],
+    "byproducts": [ [ "scrap_cotton", 6 ] ]
+  },
+  {
+    "result": "ofc_socks_orange_xs",
+    "type": "recipe",
+    "copy-from": "socks",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton_patchwork", 1 ] ],
+    "byproducts": [ [ "scrap_cotton", 2 ] ]
+  },
+  {
+    "result": "ofc_socks_blue",
+    "type": "recipe",
+    "copy-from": "socks",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton_patchwork", 1 ] ],
+    "byproducts": [ [ "scrap_cotton", 3 ] ]
+  },
+  {
+    "result": "ofc_socks_blue_xl",
+    "type": "recipe",
+    "copy-from": "socks",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton_patchwork", 2 ] ],
+    "byproducts": [ [ "scrap_cotton", 6 ] ]
+  },
+  {
+    "result": "ofc_socks_blue_xs",
+    "type": "recipe",
+    "copy-from": "socks",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton_patchwork", 1 ] ],
+    "byproducts": [ [ "scrap_cotton", 2 ] ]
+  },
+  {
+    "result": "ofc_socks_ankle_white",
+    "type": "recipe",
+    "copy-from": "socks_ankle",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton", 1 ] ],
+    "byproducts": [ [ "cotton_patchwork", 2 ] ]
+  },
+  {
+    "result": "ofc_socks_ankle_white_xl",
+    "type": "recipe",
+    "copy-from": "socks_ankle",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton", 2 ] ],
+    "byproducts": [ [ "cotton_patchwork", 4 ] ]
+  },
+  {
+    "result": "ofc_socks_ankle_white_xs",
+    "type": "recipe",
+    "copy-from": "socks_ankle",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton", 1 ] ],
+    "byproducts": [ [ "cotton_patchwork", 1 ] ]
+  },
+  {
+    "result": "ofc_socks_ankle_red",
+    "type": "recipe",
+    "copy-from": "socks_ankle",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton", 1 ] ],
+    "byproducts": [ [ "cotton_patchwork", 2 ] ]
+  },
+  {
+    "result": "ofc_socks_ankle_red_xl",
+    "type": "recipe",
+    "copy-from": "socks_ankle",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton", 2 ] ],
+    "byproducts": [ [ "cotton_patchwork", 3 ] ]
+  },
+  {
+    "result": "ofc_socks_ankle_red_xs",
+    "type": "recipe",
+    "copy-from": "socks_ankle",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton", 1 ] ],
+    "byproducts": [ [ "cotton_patchwork", 1 ] ]
+  },
+  {
+    "result": "ofc_socks_ankle_orange",
+    "type": "recipe",
+    "copy-from": "socks_ankle",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton", 1 ] ],
+    "byproducts": [ [ "cotton_patchwork", 2 ] ]
+  },
+  {
+    "result": "ofc_socks_ankle_orange_xl",
+    "type": "recipe",
+    "copy-from": "socks_ankle",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton", 2 ] ],
+    "byproducts": [ [ "cotton_patchwork", 4 ] ]
+  },
+  {
+    "result": "ofc_socks_ankle_orange_xs",
+    "type": "recipe",
+    "copy-from": "socks_ankle",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton", 1 ] ],
+    "byproducts": [ [ "cotton_patchwork", 1 ] ]
+  },
+  {
+    "result": "ofc_socks_ankle_blue",
+    "type": "recipe",
+    "copy-from": "socks_ankle",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton", 1 ] ],
+    "byproducts": [ [ "cotton_patchwork", 2 ] ]
+  },
+  {
+    "result": "ofc_socks_ankle_blue_xl",
+    "type": "recipe",
+    "copy-from": "socks_ankle",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton", 2 ] ],
+    "byproducts": [ [ "cotton_patchwork", 4 ] ]
+  },
+  {
+    "result": "ofc_socks_ankle_blue_xs",
+    "type": "recipe",
+    "copy-from": "socks_ankle",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton", 1 ] ],
+    "byproducts": [ [ "cotton_patchwork", 1 ] ]
+  },
+  {
+    "result": "ofc_kneesocks_white",
+    "type": "recipe",
+    "copy-from": "socks",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton", 1 ] ],
+    "byproducts": [ [ "cotton_patchwork", 3 ] ]
+  },
+  {
+    "result": "ofc_kneesocks_white_xl",
+    "type": "recipe",
+    "copy-from": "socks",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton", 2 ] ],
+    "byproducts": [ [ "cotton_patchwork", 6 ] ]
+  },
+  {
+    "result": "ofc_kneesocks_white_xs",
+    "type": "recipe",
+    "copy-from": "socks",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton", 1 ] ],
+    "byproducts": [ [ "cotton_patchwork", 2 ] ]
+  },
+  {
+    "result": "ofc_kneesocks_red",
+    "type": "recipe",
+    "copy-from": "socks",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton", 1 ] ],
+    "byproducts": [ [ "cotton_patchwork", 3 ] ]
+  },
+  {
+    "result": "ofc_kneesocks_red_xl",
+    "type": "recipe",
+    "copy-from": "socks",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton", 2 ] ],
+    "byproducts": [ [ "cotton_patchwork", 6 ] ]
+  },
+  {
+    "result": "ofc_kneesocks_red_xs",
+    "type": "recipe",
+    "copy-from": "socks",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton", 1 ] ],
+    "byproducts": [ [ "cotton_patchwork", 2 ] ]
+  },
+  {
+    "result": "ofc_kneesocks_orange",
+    "type": "recipe",
+    "copy-from": "socks",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton", 1 ] ],
+    "byproducts": [ [ "cotton_patchwork", 3 ] ]
+  },
+  {
+    "result": "ofc_kneesocks_orange_xl",
+    "type": "recipe",
+    "copy-from": "socks",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton", 2 ] ],
+    "byproducts": [ [ "cotton_patchwork", 6 ] ]
+  },
+  {
+    "result": "ofc_kneesocks_orange_xs",
+    "type": "recipe",
+    "copy-from": "socks",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton", 1 ] ],
+    "byproducts": [ [ "cotton_patchwork", 2 ] ]
+  },
+  {
+    "result": "ofc_kneesocks_blue",
+    "type": "recipe",
+    "copy-from": "socks",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton", 1 ] ],
+    "byproducts": [ [ "cotton_patchwork", 3 ] ]
+  },
+  {
+    "result": "ofc_kneesocks_blue_xl",
+    "type": "recipe",
+    "copy-from": "socks",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton", 2 ] ],
+    "byproducts": [ [ "cotton_patchwork", 6 ] ]
+  },
+  {
+    "result": "ofc_kneesocks_blue_xs",
+    "type": "recipe",
+    "copy-from": "socks",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton", 1 ] ],
+    "byproducts": [ [ "cotton_patchwork", 2 ] ]
+  },
+  {
+    "result": "ofc_sneakers_white",
+    "type": "recipe",
+    "copy-from": "sneakers",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [
+      [ "sewing_standard", 6 ],
+      [ "fastener_shoes", 2 ],
+      [ "shoe_rubber", 1 ],
+      [ "adhesive_rubber", 1 ],
+      [ "tailoring_cotton_patchwork", 16 ]
+    ],
+    "proficiencies": [ { "proficiency": "prof_cobbling" }, { "proficiency": "prof_closures" } ]
+  },
+  {
+    "result": "ofc_sneakers_white_xl",
+    "type": "recipe",
+    "copy-from": "sneakers",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [
+      [ "sewing_standard", 12 ],
+      [ "fastener_shoes", 4 ],
+      [ "shoe_rubber", 2 ],
+      [ "adhesive_rubber", 1 ],
+      [ "tailoring_cotton_patchwork", 32 ]
+    ],
+    "proficiencies": [ { "proficiency": "prof_cobbling" }, { "proficiency": "prof_closures" } ]
+  },
+  {
+    "result": "ofc_sneakers_white_xs",
+    "type": "recipe",
+    "copy-from": "sneakers",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [
+      [ "sewing_standard", 3 ],
+      [ "fastener_shoes", 1 ],
+      [ "shoe_rubber", 1 ],
+      [ "adhesive_rubber", 1 ],
+      [ "tailoring_cotton_patchwork", 8 ]
+    ],
+    "proficiencies": [ { "proficiency": "prof_cobbling" }, { "proficiency": "prof_closures" } ]
+  },
+  {
+    "result": "ofc_sneakers_blue",
+    "type": "recipe",
+    "copy-from": "sneakers",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [
+      [ "sewing_standard", 6 ],
+      [ "fastener_shoes", 2 ],
+      [ "shoe_rubber", 1 ],
+      [ "adhesive_rubber", 1 ],
+      [ "tailoring_cotton_patchwork", 16 ]
+    ],
+    "proficiencies": [ { "proficiency": "prof_cobbling" }, { "proficiency": "prof_closures" } ]
+  },
+  {
+    "result": "ofc_sneakers_blue_xl",
+    "type": "recipe",
+    "copy-from": "sneakers",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [
+      [ "sewing_standard", 12 ],
+      [ "fastener_shoes", 4 ],
+      [ "shoe_rubber", 2 ],
+      [ "adhesive_rubber", 1 ],
+      [ "tailoring_cotton_patchwork", 32 ]
+    ],
+    "proficiencies": [ { "proficiency": "prof_cobbling" }, { "proficiency": "prof_closures" } ]
+  },
+  {
+    "result": "ofc_sneakers_blue_xs",
+    "type": "recipe",
+    "copy-from": "sneakers",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [
+      [ "sewing_standard", 3 ],
+      [ "fastener_shoes", 1 ],
+      [ "shoe_rubber", 1 ],
+      [ "adhesive_rubber", 1 ],
+      [ "tailoring_cotton_patchwork", 8 ]
+    ],
+    "proficiencies": [ { "proficiency": "prof_cobbling" }, { "proficiency": "prof_closures" } ]
+  },
+  {
+    "result": "ofc_sneakers_orange",
+    "type": "recipe",
+    "copy-from": "sneakers",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [
+      [ "sewing_standard", 6 ],
+      [ "fastener_shoes", 2 ],
+      [ "shoe_rubber", 1 ],
+      [ "adhesive_rubber", 1 ],
+      [ "tailoring_cotton_patchwork", 16 ]
+    ],
+    "proficiencies": [ { "proficiency": "prof_cobbling" }, { "proficiency": "prof_closures" } ]
+  },
+  {
+    "result": "ofc_sneakers_orange_xl",
+    "type": "recipe",
+    "copy-from": "sneakers",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [
+      [ "sewing_standard", 12 ],
+      [ "fastener_shoes", 4 ],
+      [ "shoe_rubber", 2 ],
+      [ "adhesive_rubber", 1 ],
+      [ "tailoring_cotton_patchwork", 32 ]
+    ],
+    "proficiencies": [ { "proficiency": "prof_cobbling" }, { "proficiency": "prof_closures" } ]
+  },
+  {
+    "result": "ofc_sneakers_orange_xs",
+    "type": "recipe",
+    "copy-from": "sneakers",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [
+      [ "sewing_standard", 3 ],
+      [ "fastener_shoes", 1 ],
+      [ "shoe_rubber", 1 ],
+      [ "adhesive_rubber", 1 ],
+      [ "tailoring_cotton_patchwork", 8 ]
+    ],
+    "proficiencies": [ { "proficiency": "prof_cobbling" }, { "proficiency": "prof_closures" } ]
+  },
+  {
+    "result": "ofc_sneakers_red",
+    "type": "recipe",
+    "copy-from": "sneakers",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [
+      [ "sewing_standard", 6 ],
+      [ "fastener_shoes", 2 ],
+      [ "shoe_rubber", 1 ],
+      [ "adhesive_rubber", 1 ],
+      [ "tailoring_cotton_patchwork", 16 ]
+    ],
+    "proficiencies": [ { "proficiency": "prof_cobbling" }, { "proficiency": "prof_closures" } ]
+  },
+  {
+    "result": "ofc_sneakers_red_xl",
+    "type": "recipe",
+    "copy-from": "sneakers",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [
+      [ "sewing_standard", 12 ],
+      [ "fastener_shoes", 4 ],
+      [ "shoe_rubber", 2 ],
+      [ "adhesive_rubber", 1 ],
+      [ "tailoring_cotton_patchwork", 32 ]
+    ],
+    "proficiencies": [ { "proficiency": "prof_cobbling" }, { "proficiency": "prof_closures" } ]
+  },
+  {
+    "result": "ofc_sneakers_red_xs",
+    "type": "recipe",
+    "copy-from": "sneakers",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [
+      [ "sewing_standard", 3 ],
+      [ "fastener_shoes", 1 ],
+      [ "shoe_rubber", 1 ],
+      [ "adhesive_rubber", 1 ],
+      [ "tailoring_cotton_patchwork", 8 ]
+    ],
+    "proficiencies": [ { "proficiency": "prof_cobbling" }, { "proficiency": "prof_closures" } ]
+  },
+  {
+    "result": "ofc_fishnet_tights",
+    "type": "recipe",
+    "copy-from": "socks",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton_patchwork", 1 ] ],
+    "byproducts": [ [ "scrap_cotton", 4 ] ]
+  },
+  {
+    "result": "ofc_fishnet_tights_xl",
+    "type": "recipe",
+    "copy-from": "socks",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton_patchwork", 2 ] ],
+    "byproducts": [ [ "scrap_cotton", 4 ] ]
+  },
+  {
+    "result": "ofc_fishnet_tights_xs",
+    "type": "recipe",
+    "copy-from": "socks",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_FEET",
+    "using": [ [ "tailoring_cotton_patchwork", 1 ] ],
+    "byproducts": [ [ "scrap_cotton", 4 ] ]
+  }
+]

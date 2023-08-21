@@ -1,0 +1,840 @@
+[
+  {
+    "result": "ofc_shirt_white",
+    "type": "recipe",
+    "copy-from": "tshirt",
+    "activity_level": "LIGHT_EXERCISE",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 3 ] ]
+  },
+  {
+    "result": "ofc_shirt_white_xl",
+    "type": "recipe",
+    "copy-from": "tshirt",
+    "activity_level": "LIGHT_EXERCISE",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 6 ] ]
+  },
+  {
+    "result": "ofc_shirt_white_xs",
+    "type": "recipe",
+    "copy-from": "tshirt",
+    "activity_level": "LIGHT_EXERCISE",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 2 ] ]
+  },
+  {
+    "result": "ofc_shirt_red",
+    "type": "recipe",
+    "copy-from": "tshirt",
+    "activity_level": "LIGHT_EXERCISE",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 3 ] ]
+  },
+  {
+    "result": "ofc_shirt_red_xl",
+    "type": "recipe",
+    "copy-from": "tshirt",
+    "activity_level": "LIGHT_EXERCISE",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 6 ] ]
+  },
+  {
+    "result": "ofc_shirt_red_xs",
+    "type": "recipe",
+    "copy-from": "tshirt",
+    "activity_level": "LIGHT_EXERCISE",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 2 ] ]
+  },
+  {
+    "result": "ofc_shirt_orange",
+    "type": "recipe",
+    "copy-from": "tshirt",
+    "activity_level": "LIGHT_EXERCISE",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 3 ] ]
+  },
+  {
+    "result": "ofc_shirt_orange_xl",
+    "type": "recipe",
+    "copy-from": "tshirt",
+    "activity_level": "LIGHT_EXERCISE",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 6 ] ]
+  },
+  {
+    "result": "ofc_shirt_orange_xs",
+    "type": "recipe",
+    "copy-from": "tshirt",
+    "activity_level": "LIGHT_EXERCISE",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 2 ] ]
+  },
+  {
+    "result": "ofc_shirt_blue",
+    "type": "recipe",
+    "copy-from": "tshirt",
+    "activity_level": "LIGHT_EXERCISE",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 3 ] ]
+  },
+  {
+    "result": "ofc_shirt_blue_xl",
+    "type": "recipe",
+    "copy-from": "tshirt",
+    "activity_level": "LIGHT_EXERCISE",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 6 ] ]
+  },
+  {
+    "result": "ofc_shirt_blue_xs",
+    "type": "recipe",
+    "copy-from": "tshirt",
+    "activity_level": "LIGHT_EXERCISE",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 2 ] ]
+  },
+  {
+    "result": "ofc_longshirt_white",
+    "type": "recipe",
+    "copy-from": "longshirt",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 8 ] ]
+  },
+  {
+    "result": "ofc_longshirt_white_xl",
+    "type": "recipe",
+    "copy-from": "longshirt",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 16 ] ]
+  },
+  {
+    "result": "ofc_longshirt_white_xs",
+    "type": "recipe",
+    "copy-from": "longshirt",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 4 ] ]
+  },
+  {
+    "result": "ofc_longshirt_red",
+    "type": "recipe",
+    "copy-from": "longshirt",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 8 ] ]
+  },
+  {
+    "result": "ofc_longshirt_red_xl",
+    "type": "recipe",
+    "copy-from": "longshirt",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 16 ] ]
+  },
+  {
+    "result": "ofc_longshirt_red_xs",
+    "type": "recipe",
+    "copy-from": "longshirt",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 4 ] ]
+  },
+  {
+    "result": "ofc_longshirt_orange",
+    "type": "recipe",
+    "copy-from": "longshirt",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 8 ] ]
+  },
+  {
+    "result": "ofc_longshirt_orange_xl",
+    "type": "recipe",
+    "copy-from": "longshirt",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 16 ] ]
+  },
+  {
+    "result": "ofc_longshirt_orange_xs",
+    "type": "recipe",
+    "copy-from": "longshirt",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 8 ] ]
+  },
+  {
+    "result": "ofc_longshirt_blue",
+    "type": "recipe",
+    "copy-from": "longshirt",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 8 ] ]
+  },
+  {
+    "result": "ofc_longshirt_blue_xl",
+    "type": "recipe",
+    "copy-from": "longshirt",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 16 ] ]
+  },
+  {
+    "result": "ofc_longshirt_blue_xs",
+    "type": "recipe",
+    "copy-from": "longshirt",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 4 ] ]
+  },
+  {
+    "result": "ofc_hoodie_white",
+    "type": "recipe",
+    "copy-from": "hoodie",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 40 ] ]
+  },
+  {
+    "result": "ofc_hoodie_red",
+    "type": "recipe",
+    "copy-from": "hoodie",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 40 ] ]
+  },
+  {
+    "result": "ofc_hoodie_orange",
+    "type": "recipe",
+    "copy-from": "hoodie",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 40 ] ]
+  },
+  {
+    "result": "ofc_hoodie_blue",
+    "type": "recipe",
+    "copy-from": "hoodie",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 40 ] ]
+  },
+  {
+    "result": "ofc_hoodie_white_xl",
+    "type": "recipe",
+    "copy-from": "hoodie",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 80 ] ]
+  },
+  {
+    "result": "ofc_hoodie_red_xl",
+    "type": "recipe",
+    "copy-from": "hoodie",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 80 ] ]
+  },
+  {
+    "result": "ofc_hoodie_orange_xl",
+    "type": "recipe",
+    "copy-from": "hoodie",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 80 ] ]
+  },
+  {
+    "result": "ofc_hoodie_blue_xl",
+    "type": "recipe",
+    "copy-from": "hoodie",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 80 ] ]
+  },
+  {
+    "result": "ofc_hoodie_white_xs",
+    "type": "recipe",
+    "copy-from": "hoodie",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 20 ] ]
+  },
+  {
+    "result": "ofc_hoodie_red_xs",
+    "type": "recipe",
+    "copy-from": "hoodie",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 20 ] ]
+  },
+  {
+    "result": "ofc_hoodie_orange_xs",
+    "type": "recipe",
+    "copy-from": "hoodie",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 20 ] ]
+  },
+  {
+    "result": "ofc_hoodie_blue_xs",
+    "type": "recipe",
+    "copy-from": "hoodie",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 20 ] ]
+  },
+  {
+    "result": "ofc_longshirt_school",
+    "type": "recipe",
+    "copy-from": "hoodie",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 10 ] ]
+  },
+  {
+    "result": "ofc_longshirt_school_xl",
+    "type": "recipe",
+    "copy-from": "hoodie",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 20 ] ]
+  },
+  {
+    "result": "ofc_longshirt_school_xs",
+    "type": "recipe",
+    "copy-from": "hoodie",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 5 ] ]
+  },
+  {
+    "result": "ofc_armored_maid_dress",
+    "type": "recipe",
+    "copy-from": "hoodie",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 10 ] ],
+    "components": [
+      [ [ "coat_rain", 1 ], [ "jacket_windbreaker", 1 ], [ "jacket_evac", 1 ], [ "coat_gut", 1 ] ],
+      [ [ "duct_tape", 100 ] ],
+      [ [ "sheet_kevlar", 150 ] ],
+      [ [ "scrap", 10 ] ]
+    ]
+  },
+  {
+    "result": "ofc_armored_maid_dress_xl",
+    "type": "recipe",
+    "copy-from": "hoodie",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 10 ] ],
+    "components": [
+      [ [ "coat_rain", 1 ], [ "jacket_windbreaker", 1 ], [ "jacket_evac", 1 ], [ "coat_gut", 1 ] ],
+      [ [ "duct_tape", 200 ] ],
+      [ [ "sheet_kevlar", 300 ] ],
+      [ [ "scrap", 10 ] ]
+    ]
+  },
+  {
+    "result": "ofc_armored_maid_dress",
+    "type": "recipe",
+    "copy-from": "hoodie",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 10 ] ],
+    "components": [
+      [ [ "coat_rain", 1 ], [ "jacket_windbreaker", 1 ], [ "jacket_evac", 1 ], [ "coat_gut", 1 ] ],
+      [ [ "duct_tape", 50 ] ],
+      [ [ "sheet_kevlar", 75 ] ],
+      [ [ "scrap", 10 ] ]
+    ]
+  },
+  {
+    "result": "ofc_armored_maid_dress_blood",
+    "type": "recipe",
+    "copy-from": "hoodie",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 10 ] ],
+    "components": [
+      [ [ "coat_rain", 1 ], [ "jacket_windbreaker", 1 ], [ "jacket_evac", 1 ], [ "coat_gut", 1 ] ],
+      [ [ "duct_tape", 100 ] ],
+      [ [ "sheet_kevlar", 150 ] ]
+    ]
+  },
+  {
+    "result": "ofc_armored_maid_dress_blood_xl",
+    "type": "recipe",
+    "copy-from": "hoodie",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 10 ] ],
+    "components": [
+      [ [ "coat_rain", 1 ], [ "jacket_windbreaker", 1 ], [ "jacket_evac", 1 ], [ "coat_gut", 1 ] ],
+      [ [ "duct_tape", 200 ] ],
+      [ [ "sheet_kevlar", 300 ] ]
+    ]
+  },
+  {
+    "result": "ofc_armored_maid_dress_blood_xs",
+    "type": "recipe",
+    "copy-from": "hoodie",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 10 ] ],
+    "components": [
+      [ [ "coat_rain", 1 ], [ "jacket_windbreaker", 1 ], [ "jacket_evac", 1 ], [ "coat_gut", 1 ] ],
+      [ [ "duct_tape", 50 ] ],
+      [ [ "sheet_kevlar", 75 ] ]
+    ]
+  },
+  {
+    "result": "ofc_leotard_red",
+    "type": "recipe",
+    "copy-from": "leotard",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "sewing_standard", 13 ], [ "fabric_lycra", 8 ] ],
+    "proficiencies": [ { "proficiency": "prof_elastics" } ]
+  },
+  {
+    "result": "ofc_leotard_red_xl",
+    "type": "recipe",
+    "copy-from": "leotard",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "sewing_standard", 26 ], [ "fabric_lycra", 16 ] ],
+    "proficiencies": [ { "proficiency": "prof_elastics" } ]
+  },
+  {
+    "result": "ofc_leotard_red_xs",
+    "type": "recipe",
+    "copy-from": "leotard",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "sewing_standard", 7 ], [ "fabric_lycra", 4 ] ],
+    "proficiencies": [ { "proficiency": "prof_elastics" } ]
+  },
+  {
+    "result": "ofc_leotard_black",
+    "type": "recipe",
+    "copy-from": "leotard",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "sewing_standard", 13 ], [ "fabric_lycra", 8 ] ],
+    "proficiencies": [ { "proficiency": "prof_elastics" } ]
+  },
+  {
+    "result": "ofc_leotard_black_xl",
+    "type": "recipe",
+    "copy-from": "leotard",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "sewing_standard", 26 ], [ "fabric_lycra", 16 ] ],
+    "proficiencies": [ { "proficiency": "prof_elastics" } ]
+  },
+  {
+    "result": "ofc_leotard_black_xs",
+    "type": "recipe",
+    "copy-from": "leotard",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "sewing_standard", 7 ], [ "fabric_lycra", 4 ] ],
+    "proficiencies": [ { "proficiency": "prof_elastics" } ]
+  },
+  {
+    "result": "ofc_leotard_armor",
+    "type": "recipe",
+    "copy-from": "leotard",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 10 ] ],
+    "components": [
+      [ [ "ofc_leotard_red", 1 ], ["ofc_leotard_black", 1 ] ],
+      [ [ "coat_rain", 1 ], [ "jacket_windbreaker", 1 ], [ "jacket_evac", 1 ], [ "coat_gut", 1 ] ],
+      [ [ "duct_tape", 100 ] ],
+      [ [ "sheet_kevlar", 150 ] ],
+      [ [ "scrap", 10 ] ]
+    ]
+  },
+  {
+    "result": "ofc_leotard_armor_xl",
+    "type": "recipe",
+    "copy-from": "leotard",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 10 ] ],
+    "components": [
+      [ [ "ofc_leotard_red_xl", 1 ], ["ofc_leotard_black_xl", 1 ] ],
+      [ [ "coat_rain", 1 ], [ "jacket_windbreaker", 1 ], [ "jacket_evac", 1 ], [ "coat_gut", 1 ] ],
+      [ [ "duct_tape", 200 ] ],
+      [ [ "sheet_kevlar", 300 ] ],
+      [ [ "scrap", 10 ] ]
+    ]
+  },
+  {
+    "result": "ofc_leotard_armor_xs",
+    "type": "recipe",
+    "copy-from": "leotard",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 10 ] ],
+    "components": [
+      [ [ "ofc_leotard_red_xs", 1 ], ["ofc_leotard_black_xs", 1 ] ],
+      [ [ "coat_rain", 1 ], [ "jacket_windbreaker", 1 ], [ "jacket_evac", 1 ], [ "coat_gut", 1 ] ],
+      [ [ "duct_tape", 50 ] ],
+      [ [ "sheet_kevlar", 75 ] ],
+      [ [ "scrap", 10 ] ]
+    ]
+  },
+  {
+    "result": "ofc_nurse_clothes",
+    "type": "recipe",
+    "copy-from": "leotard",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 8 ] ]
+  },
+  {
+    "result": "ofc_nurse_clothes_xl",
+    "type": "recipe",
+    "copy-from": "leotard",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 16 ] ]
+  },
+  {
+    "result": "ofc_nurse_clothes_xs",
+    "type": "recipe",
+    "copy-from": "leotard",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 4 ] ]
+  },
+  {
+    "result": "ofc_cardigan",
+    "type": "recipe",
+    "copy-from": "sweater",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "proficiencies": [ { "proficiency": "prof_knitting" }, { "proficiency": "prof_knitting_speed" } ],
+    "using": [ [ "tailoring_wool_knitting", 550 ] ]
+  },
+  {
+    "result": "ofc_cardigan_xl",
+    "type": "recipe",
+    "copy-from": "sweater",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "proficiencies": [ { "proficiency": "prof_knitting" }, { "proficiency": "prof_knitting_speed" } ],
+    "using": [ [ "tailoring_wool_knitting", 1100 ] ]
+  },
+  {
+    "result": "ofc_cardigan_xs",
+    "type": "recipe",
+    "copy-from": "sweater",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "proficiencies": [ { "proficiency": "prof_knitting" }, { "proficiency": "prof_knitting_speed" } ],
+    "using": [ [ "tailoring_wool_knitting", 275 ] ]
+  },
+  {
+    "result": "ofc_air_conditioned",
+    "type": "recipe",
+    "copy-from": "leotard",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "using": [ [ "tailoring_cotton_patchwork", 8 ] ],
+    "components": [
+      [ [ "motor_micro", 2 ] ],
+      [ [ "e_scrap", 4 ] ],
+      [ [ "scrap", 4 ] ],
+      [ [ "cable", 4 ] ],
+      [ [ "duct_tape", 50 ] ]
+    ]
+  },
+  {
+    "result": "ofc_air_conditioned_xl",
+    "type": "recipe",
+    "copy-from": "leotard",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "using": [ [ "tailoring_cotton_patchwork", 8 ] ],
+    "components": [
+      [ [ "motor_micro", 2 ] ],
+      [ [ "e_scrap", 8 ] ],
+      [ [ "scrap", 8 ] ],
+      [ [ "cable", 8 ] ],
+      [ [ "duct_tape", 50 ] ]
+    ]
+  },
+  {
+    "result": "ofc_air_conditioned_xs",
+    "type": "recipe",
+    "copy-from": "leotard",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "using": [ [ "tailoring_cotton_patchwork", 8 ] ],
+    "components": [
+      [ [ "motor_micro", 2 ] ],
+      [ [ "e_scrap", 2 ] ],
+      [ [ "scrap", 2 ] ],
+      [ [ "cable", 2 ] ],
+      [ [ "duct_tape", 25 ] ]
+    ]
+  },
+  {
+    "result": "ofc_air_conditioned",
+    "type": "recipe",
+    "copy-from": "leotard",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "using": [ [ "tailoring_cotton_patchwork", 8 ] ],
+    "components": [
+      [ [ "motor_micro", 2 ] ],
+      [ [ "e_scrap", 2 ] ],
+      [ [ "scrap", 2 ] ],
+      [ [ "cable", 2 ] ],
+      [ [ "duct_tape", 50 ] ]
+    ]
+  },
+  {
+    "result": "ofc_sundress_white",
+    "type": "recipe",
+    "copy-from": "sundress",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 6 ] ]
+  },
+  {
+    "result": "ofc_sundress_white_xl",
+    "type": "recipe",
+    "copy-from": "sundress",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 12 ] ]
+  },
+  {
+    "result": "ofc_sundress_white_xs",
+    "type": "recipe",
+    "copy-from": "sundress",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 3 ] ]
+  },
+  {
+    "result": "ofc_sundress_red",
+    "type": "recipe",
+    "copy-from": "sundress",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 6 ] ]
+  },
+  {
+    "result": "ofc_sundress_red_xl",
+    "type": "recipe",
+    "copy-from": "sundress",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 12 ] ]
+  },
+  {
+    "result": "ofc_sundress_red_xs",
+    "type": "recipe",
+    "copy-from": "sundress",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 3 ] ]
+  },
+  {
+    "result": "ofc_sundress_orange",
+    "type": "recipe",
+    "copy-from": "sundress",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 6 ] ]
+  },
+  {
+    "result": "ofc_sundress_orange_xl",
+    "type": "recipe",
+    "copy-from": "sundress",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 12 ] ]
+  },
+  {
+    "result": "ofc_sundress_orange_xs",
+    "type": "recipe",
+    "copy-from": "sundress",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 3 ] ]
+  },
+  {
+    "result": "ofc_sundress_blue",
+    "type": "recipe",
+    "copy-from": "sundress",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 6 ] ]
+  },
+  {
+    "result": "ofc_sundress_blue_xl",
+    "type": "recipe",
+    "copy-from": "sundress",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 12 ] ]
+  },
+  {
+    "result": "ofc_sundress_blue_xs",
+    "type": "recipe",
+    "copy-from": "sundress",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 3 ] ]
+  },
+  {
+    "result": "ofc_bunny_suits",
+    "type": "recipe",
+    "copy-from": "leotard",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "sewing_standard", 13 ], [ "fabric_lycra", 8 ] ],
+    "proficiencies": [ { "proficiency": "prof_elastics" } ]
+  },
+  {
+    "result": "ofc_bunny_suits_xl",
+    "type": "recipe",
+    "copy-from": "leotard",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "sewing_standard", 26 ], [ "fabric_lycra", 16 ] ],
+    "proficiencies": [ { "proficiency": "prof_elastics" } ]
+  },
+  {
+    "result": "ofc_bunny_suits_xs",
+    "type": "recipe",
+    "copy-from": "leotard",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "sewing_standard", 7 ], [ "fabric_lycra", 4 ] ],
+    "proficiencies": [ { "proficiency": "prof_elastics" } ]
+  },
+  {
+    "result": "ofc_taisouhuku",
+    "type": "recipe",
+    "copy-from": "sundress",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 6 ] ]
+  },
+  {
+    "result": "ofc_taisouhuku_xl",
+    "type": "recipe",
+    "copy-from": "sundress",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 12 ] ]
+  },
+  {
+    "result": "ofc_taisouhuku_xs",
+    "type": "recipe",
+    "copy-from": "sundress",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 3 ] ]
+  },
+  {
+    "result": "ofc_sister_tunic",
+    "type": "recipe",
+    "copy-from": "sundress",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 6 ] ]
+  },
+  {
+    "result": "ofc_sister_tunic_xl",
+    "type": "recipe",
+    "copy-from": "sundress",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 12 ] ]
+  },
+  {
+    "result": "ofc_sister_tunic_xs",
+    "type": "recipe",
+    "copy-from": "sundress",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_cotton_patchwork", 3 ] ]
+  },
+  {
+    "result": "ofc_army_dress_kuro",
+    "type": "recipe",
+    "copy-from": "sundress",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_nylon_patchwork", 6 ] ]
+  },
+  {
+    "result": "ofc_army_dress_kuro_xl",
+    "type": "recipe",
+    "copy-from": "sundress",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_nylon_patchwork", 12 ] ]
+  },
+  {
+    "result": "ofc_army_dress_kuro_xs",
+    "type": "recipe",
+    "copy-from": "sundress",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_nylon_patchwork", 3 ] ]
+  },
+  {
+    "result": "ofc_army_dress_aka",
+    "type": "recipe",
+    "copy-from": "sundress",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_nylon_patchwork", 6 ] ]
+  },
+  {
+    "result": "ofc_army_dress_aka_xl",
+    "type": "recipe",
+    "copy-from": "sundress",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_nylon_patchwork", 12 ] ]
+  },
+  {
+    "result": "ofc_army_dress_aka_xs",
+    "type": "recipe",
+    "copy-from": "sundress",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "tailoring_nylon_patchwork", 3 ] ]
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "ofc_skirt_school",
+    "copy-from": "skirt",
+    "repairs_like": "jeans",
+    "type": "ARMOR",
+    "name": { "str": "スカート(学生服)[OFC]" },
+    "description": "学校の制服用に仕立てられたスカートです。丈を短くしたら怒られますよ?",
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_skirt_school_xl",
+    "copy-from": "ofc_skirt_school",
+    "type": "ARMOR",
+    "name": { "str": "XLスカート(学生服)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_skirt_school_xs",
+    "copy-from": "ofc_skirt_school",
+    "type": "ARMOR",
+    "name": { "str": "XSスカート(学生服)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_skirt_school_nano",
+    "copy-from": "nanoskirt",
+    "repairs_like": "jeans",
+    "type": "ARMOR",
+    "name": { "str": "ナノスカート(学生服)[OFC]" },
+    "description": "オシャレのために丈を短くした学校の制服用スカートです。",
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_skirt_school_nano_xl",
+    "copy-from": "ofc_skirt_school_nano",
+    "type": "ARMOR",
+    "name": { "str": "XLナノスカート(学生服)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_skirt_school_nano_xs",
+    "copy-from": "ofc_skirt_school_nano",
+    "type": "ARMOR",
+    "name": { "str": "XSナノスカート(学生服)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_buruma",
+    "copy-from": "nanoskirt",
+    "repairs_like": "jeans",
+    "type": "ARMOR",
+    "name": { "str": "ブルマ[OFC]" },
+    "description": "ブルマです",
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_buruma_xl",
+    "copy-from": "ofc_buruma",
+    "type": "ARMOR",
+    "name": { "str": "XLブルマ[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_buruma_xs",
+    "copy-from": "ofc_buruma",
+    "type": "ARMOR",
+    "name": { "str": "XSブルマ[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_overall",
+    "type": "ARMOR",
+    "copy-from": "jeans",
+    "name": { "str_sp": "オーバーオール[OFC]" },
+    "description": "肩紐のあるつりズボン型つなぎです。 通常のつなぎとの違いは、上半身は胸当てのみが付けられていて、肩紐で吊って着用するところです。",
+    "weight": "800 g",
+    "warmth": 10,
+    "armor": [ 
+      { "encumbrance": [ 7, 11 ], "coverage": 95, "covers": [ "leg_l", "leg_r" ] },
+      { "encumbrance": [ 7, 11 ], "coverage": 10, "covers": [ "torso" ] }
+    ]
+  },
+  {
+    "id": "ofc_overall_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_overall",
+    "name": { "str_sp": "XLオーバーオール[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_overall_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_overall",
+    "name": { "str_sp": "XSオーバーオール[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  }
+]

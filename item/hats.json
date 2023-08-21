@@ -1,0 +1,391 @@
+[
+  {
+    "id": "ofc_hat_cotton_blue",
+    "type": "ARMOR",
+    "copy-from": "hat_cotton",
+    "name": { "str": "コットンハット(青)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_hat_cotton_blue_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_hat_cotton_blue",
+    "name": { "str": "XLコットンハット(青)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_hat_cotton_blue_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_hat_cotton_blue",
+    "name": { "str": "XSコットンハット(青)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_hat_cotton_green",
+    "type": "ARMOR",
+    "copy-from": "hat_cotton",
+    "name": { "str": "コットンハット(緑)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_hat_cotton_green_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_hat_cotton_green",
+    "name": { "str": "XLコットンハット(緑)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_hat_cotton_green_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_hat_cotton_green",
+    "name": { "str": "XSコットンハット(緑)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_hat_cotton_red",
+    "type": "ARMOR",
+    "copy-from": "hat_cotton",
+    "name": { "str": "コットンハット(赤)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_hat_cotton_red_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_hat_cotton_red",
+    "name": { "str": "XLコットンハット(赤)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_hat_cotton_red_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_hat_cotton_red",
+    "name": { "str": "XSコットンハット(赤)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_hat_cotton_orange",
+    "type": "ARMOR",
+    "copy-from": "hat_cotton",
+    "name": { "str": "コットンハット(橙)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_hat_cotton_orange_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_hat_cotton_orange",
+    "name": { "str": "XLコットンハット(橙)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_hat_cotton_orange_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_hat_cotton_orange",
+    "name": { "str": "XSコットンハット(橙)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_hat_knit_white",
+    "type": "ARMOR",
+    "copy-from": "hat_knit",
+    "name": { "str": "ニット帽(白)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_hat_knit_white_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_hat_knit_white",
+    "name": { "str": "XLニット帽(白)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_hat_knit_white_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_hat_knit_white",
+    "name": { "str": "XSニット帽(白)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_hat_knit_blue",
+    "type": "ARMOR",
+    "copy-from": "hat_knit",
+    "name": { "str": "ニット帽(青)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_hat_knit_blue_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_hat_knit_blue",
+    "name": { "str": "XLニット帽(青)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_hat_knit_blue_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_hat_knit_blue",
+    "name": { "str": "XSニット帽(青)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_hat_knit_green",
+    "type": "ARMOR",
+    "copy-from": "hat_knit",
+    "name": { "str": "ニット帽(緑)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_hat_knit_green_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_hat_knit_green",
+    "name": { "str": "XLニット帽(緑)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_hat_knit_green_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_hat_knit_green",
+    "name": { "str": "XSニット帽(緑)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_hat_knit_red",
+    "type": "ARMOR",
+    "copy-from": "hat_knit",
+    "name": { "str": "ニット帽(赤)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_hat_knit_red_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_hat_knit_red",
+    "name": { "str": "XLニット帽(赤)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_hat_knit_red_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_hat_knit_red",
+    "name": { "str": "XSニット帽(赤)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_hat_knit_orange",
+    "type": "ARMOR",
+    "copy-from": "hat_knit",
+    "name": { "str": "ニット帽(橙)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_hat_knit_orange_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_hat_knit_orange",
+    "name": { "str": "XLニット帽(橙)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_hat_knit_orange_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_hat_knit_orange",
+    "name": { "str": "XSニット帽(橙)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_bunny_head",
+    "type": "ARMOR",
+    "name": { "str": "ヘアバンド(うさ耳)[OFC]" },
+    "description": "ウサギをモチーフにしたヘアバンドです。えっちです。",
+    "weight": "10 g",
+    "volume": "250 ml",
+    "price": 2500,
+    "price_postapoc": 50,
+    "material": [ "cotton" ],
+    "symbol": "[",
+    "color": "black",
+    "warmth": 2,
+    "material_thickness": 0.05,
+    "flags": [ "FANCY" ],
+    "armor": [
+      {
+        "encumbrance_modifiers": [ "NONE" ],
+        "coverage": 20,
+        "covers": [ "head" ],
+        "specifically_covers": [ "head_crown" ]
+      }
+    ]
+  },
+  {
+    "id": "ofc_bunny_head_xl",
+    "type": "ARMOR",
+    "name": { "str": "XLヘアバンド(うさ耳)[OFC]" },
+    "copy-from": "ofc_bunny_head",
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "flags": [ "OVERSIZE" ]
+  },
+  {
+    "id": "ofc_bunny_head_xs",
+    "type": "ARMOR",
+    "name": { "str": "XSヘアバンド(うさ耳)[OFC]" },
+    "copy-from": "ofc_bunny_head",
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "flags": [ "UNDERSIZE" ]
+  },
+  {
+    "id": "ofc_hat_nurse",
+    "type": "ARMOR",
+    "copy-from": "hat_cotton",
+    "name": { "str": "看護服(帽子)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] },
+    "armor": [
+      {
+        "encumbrance_modifiers": [ "NONE" ],
+        "coverage": 20,
+        "covers": [ "head" ],
+        "specifically_covers": [ "head_crown" ]
+      }
+    ]
+  },
+  {
+    "id": "ofc_hat_nurse_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_hat_nurse",
+    "name": { "str": "XL看護服(帽子)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_hat_nurse_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_hat_nurse",
+    "name": { "str": "XS看護服(帽子)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_armored_maid_hat",
+    "type": "ARMOR",
+    "copy-from": "hat_cotton",
+    "name": { "str": "アーマードメイド服(フリル)[OFC]" },
+    "description": "戦うメイドさん向けの厚手のホワイトブリムです。おしゃれでかっこいい一品です。",
+    "material_thickness": 1,
+    "armor": [
+      {
+        "encumbrance_modifiers": [ "NONE" ],
+        "coverage": 20,
+        "covers": [ "head" ],
+        "specifically_covers": [ "head_crown" ]
+      }
+    ],
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_armored_maid_hat_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_armored_maid_hat",
+    "name": { "str": "XLアーマードメイド服(フリル)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_armored_maid_hat_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_armored_maid_hat",
+    "name": { "str": "XSアーマードメイド服(フリル)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_armored_maid_hat_senketu",
+    "type": "ARMOR",
+    "copy-from": "ofc_armored_maid_hat",
+    "name": { "str": "鮮血のメイド服(フリル)[OFC]" }
+  },
+  {
+    "id": "ofc_armored_maid_hat_senketu_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_armored_maid_hat_senketu",
+    "name": { "str": "XL鮮血のメイド服(フリル)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_armored_maid_hat_senketu_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_armored_maid_hat_senketu",
+    "name": { "str": "XS鮮血のメイド服(フリル)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_hat_sister",
+    "type": "ARMOR",
+    "copy-from": "hat_cotton",
+    "name": { "str": "修道服(ウィンプル)[OFC]" },
+    "description": "ウィンプルは、12世紀から13世紀ごろの中世ヨーロッパで着用され始めた女性用頭巾です。キリスト教文化圏では既婚女性が髪を出すのが、はしたない事とされ身に付けられたそうですが、これはおしゃれ目的のウィンプルのようです",
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_hat_sister_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_hat_sister",
+    "name": { "str": "XL修道服(ウィンプル)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_hat_sister_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_hat_sister",
+    "name": { "str": "XS修道服(ウィンプル)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_hat_army",
+    "type": "ARMOR",
+    "copy-from": "hat_cotton",
+    "name": { "str": "軍帽[OFC]" },
+    "description": "軍服とセットで着用する軍人用の制帽です。軍用のものではありますが、この帽子はちょっとおしゃれです",
+    "extend": { "flags": [ "FANCY" ] },
+    "armor": [
+      {
+        "encumbrance_modifiers": [ "NONE" ],
+        "coverage": 100,
+        "covers": [ "head" ],
+        "specifically_covers": [ "head_crown", "head_forehead" ]
+      }
+    ]
+  },
+  {
+    "id": "ofc_hat_army_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_hat_army",
+    "name": { "str": "XL軍帽[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_hat_army_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_hat_army",
+    "name": { "str": "XS軍帽[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  }
+]

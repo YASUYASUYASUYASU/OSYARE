@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "osyare_clothes_committee",
+    "name": "追加 - おしゃれ服装委員会",
+    "authors": [ "YasuYasu" ],
+    "description": "おしゃれな服装をたくさん追加します。おしゃれは正義です",
+    "category": "item",
+    "dependencies": [ "dda" ]
+  }
+]

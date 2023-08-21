@@ -1,0 +1,405 @@
+[
+  {
+    "id": "ofc_socks_white",
+    "type": "ARMOR",
+    "copy-from": "socks",
+    "name": { "str": "靴下(白)[OFC]", "str_pl": "靴下(白)[OFC]" },
+    "description": "シンプルな靴下です。通常の靴下よりちょっとだけお洒落なつくりになっています。",
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_socks_white_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_socks_white",
+    "name": { "str": "XL靴下(白)[OFC]", "str_pl": "XL靴下(白)[OFC]" },
+    "description": "シンプルな靴下です。通常の靴下よりちょっとだけお洒落なつくりになっています。",
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_socks_white_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_socks_white",
+    "name": { "str": "XS靴下(白)[OFC]", "str_pl": "XS靴下(白)[OFC]" },
+    "description": "シンプルな靴下です。通常の靴下よりちょっとだけお洒落なつくりになっています。",
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_socks_red",
+    "type": "ARMOR",
+    "copy-from": "ofc_socks_white",
+    "name": { "str": "靴下(赤)[OFC]", "str_pl": "靴下(赤)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_socks_red_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_socks_white",
+    "name": { "str": "XL靴下(赤)[OFC]", "str_pl": "XL靴下(赤)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_socks_red_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_socks_white",
+    "name": { "str": "XS靴下(赤)[OFC]", "str_pl": "XS靴下(赤)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_socks_orange",
+    "type": "ARMOR",
+    "copy-from": "ofc_socks_white",
+    "name": { "str": "靴下(橙)[OFC]", "str_pl": "靴下(橙)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_socks_orange_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_socks_orange",
+    "name": { "str": "XL靴下(橙)[OFC]", "str_pl": "XL靴下(橙)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_socks_orange_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_socks_orange",
+    "name": { "str": "XS靴下(橙)[OFC]", "str_pl": "XS靴下(橙)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_socks_blue",
+    "type": "ARMOR",
+    "copy-from": "ofc_socks_white",
+    "name": { "str": "靴下(青)[OFC]", "str_pl": "靴下(青)[OFC]" }
+  },
+  {
+    "id": "ofc_socks_blue_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_socks_blue",
+    "name": { "str": "XL靴下(青)[OFC]", "str_pl": "XL靴下(青)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_socks_blue_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_socks_blue",
+    "name": { "str": "XS靴下(青)[OFC]", "str_pl": "XS靴下(青)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_socks_ankle_white",
+    "type": "ARMOR",
+    "copy-from": "socks_ankle",
+    "name": { "str": "くるぶし靴下(白)[OFC]", "str_pl": "くるぶし靴下(白)[OFC]" },
+    "description": "シンプルなくるぶしまでの靴下です。通常の靴下よりちょっとだけお洒落なつくりになっています。",
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_socks_ankle_white_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_socks_ankle_white",
+    "name": { "str": "XLくるぶし靴下(白)[OFC]", "str_pl": "XLくるぶし靴下(白)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_socks_ankle_white_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_socks_ankle_white",
+    "name": { "str": "XSくるぶし靴下(白)[OFC]", "str_pl": "XSくるぶし靴下(白)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_socks_ankle_red",
+    "type": "ARMOR",
+    "copy-from": "ofc_socks_white",
+    "name": { "str": "くるぶし靴下(赤)[OFC]", "str_pl": "くるぶし靴下(赤)[OFC]" }
+  },
+  {
+    "id": "ofc_socks_ankle_red_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_socks_ankle_red",
+    "name": { "str": "XLくるぶし靴下(赤)[OFC]", "str_pl": "XLくるぶし靴下(赤)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_socks_ankle_red_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_socks_ankle_red",
+    "name": { "str": "XSくるぶし靴下(赤)[OFC]", "str_pl": "XSくるぶし靴下(赤)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_socks_ankle_orange",
+    "type": "ARMOR",
+    "copy-from": "ofc_socks_white",
+    "name": { "str": "くるぶし靴下(橙)[OFC]", "str_pl": "くるぶし靴下(橙)[OFC]" }
+  },
+  {
+    "id": "ofc_socks_ankle_orange_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_socks_ankle_orange",
+    "name": { "str": "XLくるぶし靴下(橙)[OFC]", "str_pl": "XLくるぶし靴下(橙)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_socks_ankle_orange_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_socks_ankle_orange",
+    "name": { "str": "XSくるぶし靴下(橙)[OFC]", "str_pl": "XSくるぶし靴下(橙)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_socks_ankle_blue",
+    "type": "ARMOR",
+    "copy-from": "ofc_socks_white",
+    "name": { "str": "くるぶし靴下(青)[OFC]", "str_pl": "くるぶし靴下(青)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_socks_ankle_blue_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_socks_ankle_blue",
+    "name": { "str": "XLくるぶし靴下(青)[OFC]", "str_pl": "XLくるぶし靴下(青)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_socks_ankle_blue_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_socks_ankle_blue",
+    "name": { "str": "XSくるぶし靴下(青)[OFC]", "str_pl": "XSくるぶし靴下(青)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_kneesocks_white",
+    "type": "ARMOR",
+    "copy-from": "socks",
+    "name": { "str": "ニーソックス(白)[OFC]", "str_pl": "ニーソックス(白)[OFC]" },
+    "description": "シンプルなニーソックスです。これを履くだけでもお洒落に見えます。",
+    "armor": [
+      {
+        "covers": [ "leg_l", "leg_r" ],
+        "specifically_covers": [ "leg_lower_l", "leg_lower_r", "leg_knee_l", "leg_knee_r", "leg_upper_l", "leg_upper_r" ],
+        "coverage": 40,
+        "encumbrance": 2
+      },
+      { "coverage": 100, "covers": [ "foot_l", "foot_r" ] }
+    ],
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_kneesocks_white_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_kneesocks_white",
+    "name": { "str": "XLニーソックス(白)[OFC]", "str_pl": "XLニーソックス(白)[OFC]" },
+    "description": "シンプルなニーソックスです。これを履くだけでもお洒落に見えます。",
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_kneesocks_white_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_kneesocks_white",
+    "name": { "str": "XSニーソックス(白)[OFC]", "str_pl": "XSニーソックス(白)[OFC]" },
+    "description": "シンプルなニーソックスです。これを履くだけでもお洒落に見えます。",
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_kneesocks_red",
+    "type": "ARMOR",
+    "copy-from": "ofc_kneesocks_white",
+    "name": { "str": "ニーソックス(赤)[OFC]", "str_pl": "ニーソックス(赤)[OFC]" }
+  },
+  {
+    "id": "ofc_kneesocks_red_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_kneesocks_red",
+    "name": { "str": "XLニーソックス(赤)[OFC]", "str_pl": "XLニーソックス(赤)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_kneesocks_red_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_kneesocks_red",
+    "name": { "str": "XSニーソックス(赤)[OFC]", "str_pl": "XSニーソックス(赤)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_kneesocks_orange",
+    "type": "ARMOR",
+    "copy-from": "ofc_kneesocks_white",
+    "name": { "str": "ニーソックス(橙)[OFC]", "str_pl": "ニーソックス(橙)[OFC]" }
+  },
+  {
+    "id": "ofc_kneesocks_orange_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_kneesocks_orange",
+    "name": { "str": "XLニーソックス(橙)[OFC]", "str_pl": "XLニーソックス(橙)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_kneesocks_orange_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_kneesocks_orange",
+    "name": { "str": "XSニーソックス(橙)[OFC]", "str_pl": "XSニーソックス(橙)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_kneesocks_blue",
+    "type": "ARMOR",
+    "copy-from": "ofc_kneesocks_white",
+    "name": { "str": "ニーソックス(青)[OFC]", "str_pl": "ニーソックス(青)[OFC]" }
+  },
+  {
+    "id": "ofc_kneesocks_blue_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_kneesocks_blue",
+    "name": { "str": "XLニーソックス(青)[OFC]", "str_pl": "XLニーソックス(青)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_kneesocks_blue_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_kneesocks_blue",
+    "name": { "str": "XSニーソックス(青)[OFC]", "str_pl": "XSニーソックス(青)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_sneakers_white",
+    "type": "ARMOR",
+    "copy-from": "sneakers",
+    "name": { "str": "スニーカー(白)[OFC]", "str_pl": "スニーカー(白)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_sneakers_white_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_sneakers_white",
+    "name": { "str": "XLスニーカー(白)[OFC]", "str_pl": "XLスニーカー(白)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_sneakers_white_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_sneakers_white",
+    "name": { "str": "XSスニーカー(白)[OFC]", "str_pl": "XSスニーカー(白)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_sneakers_blue",
+    "type": "ARMOR",
+    "copy-from": "sneakers",
+    "name": { "str": "スニーカー(青)[OFC]", "str_pl": "スニーカー(青)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_sneakers_blue_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_sneakers_blue",
+    "name": { "str": "XLスニーカー(青)[OFC]", "str_pl": "XLスニーカー(青)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_sneakers_blue_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_sneakers_blue",
+    "name": { "str": "XSスニーカー(青)[OFC]", "str_pl": "XSスニーカー(青)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_sneakers_red",
+    "type": "ARMOR",
+    "copy-from": "sneakers",
+    "name": { "str": "スニーカー(赤)[OFC]", "str_pl": "スニーカー(橙)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_sneakers_red_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_sneakers_red",
+    "name": { "str": "XLスニーカー(赤)[OFC]", "str_pl": "XLスニーカー(橙)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_sneakers_red_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_sneakers_red",
+    "name": { "str": "XSスニーカー(赤)[OFC]", "str_pl": "XSスニーカー(橙)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_sneakers_orange",
+    "type": "ARMOR",
+    "copy-from": "sneakers",
+    "name": { "str": "スニーカー(橙)[OFC]", "str_pl": "スニーカー(橙)[OFC]" },
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_sneakers_orange_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_sneakers_orange",
+    "name": { "str": "XLスニーカー(橙)[OFC]", "str_pl": "XLスニーカー(橙)[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_sneakers_orange_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_sneakers_orange",
+    "name": { "str": "XSスニーカー(橙)[OFC]", "str_pl": "XSスニーカー(橙)[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_fishnet_tights",
+    "type": "ARMOR",
+    "copy-from": "stockings",
+    "name": { "str": "網タイツ[OFC]", "str_pl": "網タイツ[OFC]" },
+    "description": "セクシーな網タイツです。こんな世界ですが、着こなしてみましょう",
+    "warmth": 5,
+    "extend": { "flags": [ "FANCY" ] }
+  },
+  {
+    "id": "ofc_fishnet_tights_xl",
+    "type": "ARMOR",
+    "copy-from": "ofc_fishnet_tights",
+    "name": { "str": "XL網タイツ[OFC]", "str_pl": "XL網タイツ[OFC]" },
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "ofc_fishnet_tights_xs",
+    "type": "ARMOR",
+    "copy-from": "ofc_fishnet_tights",
+    "name": { "str": "XS網タイツ[OFC]", "str_pl": "XS網タイツ[OFC]" },
+    "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
+    "extend": { "flags": [ "UNDERSIZE" ] }
+  }
+]

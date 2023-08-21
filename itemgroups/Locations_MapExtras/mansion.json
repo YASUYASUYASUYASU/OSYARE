@@ -1,0 +1,27 @@
+[
+  {
+    "//1": "セクシーなお店にも修道服、軍服を出すように",
+    "id": "sex_lair",
+    "type": "item_group",
+    "copy-from": "sex_lair",
+    "extend": {
+      "items": [
+        { "item": "ofc_hat_army"          , "prob": 20 },
+        { "item": "ofc_hat_army_xl"       , "prob": 20 },
+        { "item": "ofc_hat_army_xs"       , "prob": 20 },
+        { "item": "ofc_army_dress_kuro"   , "prob": 20 },
+        { "item": "ofc_army_dress_kuro_xl", "prob": 20 },
+        { "item": "ofc_army_dress_kuro_xs", "prob": 20 },
+        { "item": "ofc_army_dress_aka"    , "prob": 20 },
+        { "item": "ofc_army_dress_aka_xl" , "prob": 20 },
+        { "item": "ofc_army_dress_aka_xs" , "prob": 20 },
+        { "item": "ofc_hat_sister", "prob": 20  },
+        { "item": "ofc_hat_sister_xl", "prob": 20 },
+        { "item": "ofc_hat_sister_xs", "prob": 20 },
+        { "item": "ofc_sister_tunic", "prob": 20  },
+        { "item": "ofc_sister_tunic_xl", "prob": 20 },
+        { "item": "ofc_sister_tunic_xs", "prob": 20 }
+      ]
+    }
+  }
+]
