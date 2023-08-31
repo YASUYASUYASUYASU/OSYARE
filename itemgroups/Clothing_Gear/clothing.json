@@ -428,7 +428,10 @@
         [ "ofc_leotard_red_xs"       , 20 ],
         [ "ofc_leotard_black"        , 30 ],
         [ "ofc_leotard_black_xl"     , 20 ],
-        [ "ofc_leotard_black_xs"     , 20 ]
+        [ "ofc_leotard_black_xs"     , 20 ],
+        [ "ofc_school_mizugi_dark_blue"    , 20 ],
+        [ "ofc_school_mizugi_white"        , 20 ],
+        [ "ofc_school_mizugi_dark_blue_old", 20 ]
       ]
     }
   },
@@ -656,6 +659,30 @@
         [ "ofc_sneakers_red"      , 60 ],
         [ "ofc_sneakers_red_xl"   , 60 ],
         [ "ofc_sneakers_red_xs"   , 60 ]
+      ]
+    }
+  },
+  {
+    "type": "item_group",
+    "id": "swimmer_wetsuit",
+    "copy-from": "swimmer_wetsuit",
+    "extend": {
+      "items": [
+        [ "ofc_school_mizugi_dark_blue"    , 20 ],
+        [ "ofc_school_mizugi_white"        , 20 ],
+        [ "ofc_school_mizugi_dark_blue_old", 20 ]
+      ]
+    }
+  },
+  {
+    "type": "item_group",
+    "id": "diving_wetsuit",
+    "copy-from": "diving_wetsuit",
+    "extend": {
+      "items": [
+        [ "ofc_school_mizugi_dark_blue"    , 10 ],
+        [ "ofc_school_mizugi_white"        , 10 ],
+        [ "ofc_school_mizugi_dark_blue_old", 10 ]
       ]
     }
   }

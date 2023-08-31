@@ -836,5 +836,35 @@
     "category": "CC_おしゃれ服装委員会",
     "subcategory": "CSC_おしゃれ服装委員会_TORSO",
     "using": [ [ "tailoring_nylon_patchwork", 3 ] ]
+  },
+  {
+    "result": "ofc_school_mizugi_dark_blue",
+    "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "skill_used": "tailor",
+    "difficulty": 3,
+    "time": "3 h",
+    "autolearn": true,
+    "book_learn": [ [ "mag_tailor", 1 ], [ "manual_tailor", 1 ] ],
+    "proficiencies": [ { "proficiency": "prof_elastics", "time_multiplier": 1.5, "skill_penalty": 0.15 } ],
+    "using": [ [ "sewing_standard", 30 ], [ "tailoring_nylon_patchwork", 3 ] ]
+  },
+  {
+    "result": "ofc_school_mizugi_white",
+    "type": "recipe",
+    "copy-from": "sundress",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "sewing_standard", 30 ], [ "tailoring_nylon_patchwork", 3 ] ]
+  },
+  {
+    "result": "ofc_school_mizugi_dark_blue_old",
+    "type": "recipe",
+    "copy-from": "sundress",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "sewing_standard", 30 ], [ "tailoring_nylon_patchwork", 3 ] ]
   }
 ]
