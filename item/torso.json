@@ -875,7 +875,7 @@
     "name": { "str": "スクール水着(紺)[OFC]", "str_pl": "スクール水着(紺)[OFC]" },
     "description": "日本の学校で使われているワンピースタイプの水着です。",
     "weight": "150 g",
-    "volume": "500 mL",
+    "volume": "500 ml",
     "price": 3000,
     "price_postapoc": 100,
     "to_hit": -2,
