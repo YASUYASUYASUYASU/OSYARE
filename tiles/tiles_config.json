@@ -450,6 +450,24 @@
         "tiles": [        
           { "id": "overlay_worn_ofc_army_dress_aka"   , "fg": 55, "rotates": false }
         ]
+      },
+      {
+        "file": "tiles/image/school_mizugi_dark_blue.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_school_mizugi_dark_blue", "fg": 56, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/school_mizugi_white.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_school_mizugi_white", "fg": 57, "rotates": false }
+        ]
+      },
+      {
+        "file": "tiles/image/school_mizugi_dark_blue_old.png",
+        "tiles": [        
+          { "id": "overlay_worn_ofc_school_mizugi_dark_blue_old", "fg": 58, "rotates": false }
+        ]
       }
     
       

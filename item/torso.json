@@ -868,5 +868,38 @@
     "copy-from": "ofc_army_dress_aka",
     "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
     "extend": { "flags": [ "UNDERSIZE" ] }
+  },
+  {
+    "id": "ofc_school_mizugi_dark_blue",
+    "type": "ARMOR",
+    "name": { "str": "スクール水着(紺)[OFC]", "str_pl": "スクール水着(紺)[OFC]" },
+    "description": "日本の学校で使われているワンピースタイプの水着です。",
+    "weight": "150 g",
+    "volume": "500 mL",
+    "price": 3000,
+    "price_postapoc": 100,
+    "to_hit": -2,
+    "material": [ "nylon" ],
+    "symbol": "[",
+    "color": "blue",
+    "armor": [
+      { "covers": [ "torso" ], "coverage": 90 }
+    ],
+    "warmth": 5,
+    "material_thickness": 0.05,
+    "environmental_protection": 0.5,
+    "flags": [ "VARSIZE", "WATER_FRIENDLY", "SKINTIGHT" ]
+  },
+  {
+    "id": "ofc_school_mizugi_white",
+    "type": "ARMOR",
+    "name": { "str": "スクール水着(白)[OFC]", "str_pl": "スクール水着(白)[OFC]" },
+    "copy-from": "ofc_school_mizugi_dark_blue"
+  },
+  {
+    "id": "ofc_school_mizugi_dark_blue_old",
+    "type": "ARMOR",
+    "name": { "str": "スクール水着(紺・旧型)[OFC]", "str_pl": "スクール水着(紺・旧型)[OFC]" },
+    "copy-from": "ofc_school_mizugi_dark_blue"
   }
 ]
